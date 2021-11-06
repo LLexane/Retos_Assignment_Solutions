@@ -1,6 +1,6 @@
 require './InteractionNetwork.rb'  
 
-network = InteractionNetwork.network  #create the class variable of Gene
+network = InteractionNetwork.network  #create the class variable
 File.foreach( 'ArabidopsisSubNetwork_GeneList.txt' ) do |line| #create each InteractionNetwork object with each geneID from the initial list
     InteractionNetwork.new(:geneID =>line.chomp.upcase )
 end
