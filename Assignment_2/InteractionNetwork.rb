@@ -207,7 +207,7 @@ class InteractionNetwork
     end
 
     def report() #method allowing to create a report of which members of the gene list interact with one another, with the KEGG/GO functional annotations of those interacting members.
-        puts "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+        puts "----------------------------------------------------------------------------------------------------------------------------------------------------------------"
         if @interactorB.empty? #if there is no member in the interactor B list then there is no gene in the interactor C list so our initial gene interacts with no gene from the initial list.
             puts "The gene #{@geneID} interacts with no gene from the list."
         else
