@@ -214,14 +214,14 @@ class InteractionNetwork
             network = @interactorB + @interactorC #final network of the @geneID
             puts "Gene #{@geneID}"
             puts "\t KEGG Pathway : #{keggPathway(@geneID)}\n"
-            puts "\t\t    GO : #{go_term(@geneID)}"
+            puts "\t\t   GO : #{go_term(@geneID)}"
             puts "Interact with :"
             puts
             network.each do |z| #for each member of the network present in the initial list, the KEGG and GO are searched with there methods and puts.
                 @@network.each do |n|
                     if n.geneID == z
                         puts " - #{z}\tKEGG Pathway : #{keggPathway(z)}\n"
-                        puts "\t\t\t GO : #{go_term(z)}"
+                        puts "\t\t\t  GO : #{go_term(z)}"
                     end
                 end
             end
