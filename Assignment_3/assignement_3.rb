@@ -77,7 +77,7 @@ def findRepeatSeq (gene) #function allowing to take the coordinates of every CTT
                         eNd1=eNd+3
                     end
 
-                    if !loc_tab.to_set.include?(start)
+                    if !loc_tab.to_set.include?(start) #look for repeated positions, to have just one position of CTTCTT region even if it is present on many exons that overlaps
                         loc_tab+=[start]
                         f1 = Bio::Feature.new('repeatExon',"#{start}..#{eNd}") #create the new Sequence Feature
                         f1.append(Bio::Feature::Qualifier.new('repeat_motif', 'CTTCTT'))
@@ -87,7 +87,7 @@ def findRepeatSeq (gene) #function allowing to take the coordinates of every CTT
                         bioseq.features << f1 #add the new Sequence Feature
 
                         exon1=exon.splice("#{s+1}..#{e+4}") #retrive the cttctt sequence + 3 nucleotides 
-                        if exon1.match(/#{re}+(?=ctt)/) #check if before the cttctt sequence, the 3 nucleotides correspond to "ctt"
+                        if exon1.match(/#{re}+(?=ctt)/) #check i before the cttctt sequence, the 3 nucleotides correspond to "ctt"
                             f2 = Bio::Feature.new('repeatExon',"#{start1}..#{eNd1}") #create the new Sequence Feature
                             f2.append(Bio::Feature::Qualifier.new('repeat_motif', 'CTTCTT'))
                             f2.append(Bio::Feature::Qualifier.new('strand', "#{strand}"))
