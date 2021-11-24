@@ -46,6 +46,7 @@ def findRepeatSeq (gene) #function allowing to take the coordinates of every CTT
     entry =  datafile.next_entry   # this is a way to get just one entry from the FlatFile
     bioseq = entry.to_biosequence
     chromosome = entry.accession.split(":")[2] #take the number of the chromosome corresponding to location of the gene
+    loc_tab=[]
     bioseq.features.each do |feature|
         assoc=feature.assoc
         next unless feature.feature == "exon"
@@ -75,21 +76,25 @@ def findRepeatSeq (gene) #function allowing to take the coordinates of every CTT
                         start1=start+3
                         eNd1=eNd+3
                     end
-                    f1 = Bio::Feature.new('repeatExon',"#{start}..#{eNd}") #create the new Sequence Feature
-                    f1.append(Bio::Feature::Qualifier.new('repeat_motif', 'CTTCTT'))
-                    f1.append(Bio::Feature::Qualifier.new('strand', "#{strand}"))
-                    f1.append(Bio::Feature::Qualifier.new('ID',assoc['note']))
-                    f1.append(Bio::Feature::Qualifier.new('chr',"chr#{chromosome}"))
-                    bioseq.features << f1 #add the new Sequence Feature
 
-                    exon1=exon.splice("#{s+1}..#{e+4}") #retrive the cttctt sequence + 3 nucleotides 
-                    if exon1.match(/#{re}+(?=ctt)/) #check if before the cttctt sequence, the 3 nucleotides correspond to "ctt"
-                        f2 = Bio::Feature.new('repeatExon',"#{start1}..#{eNd1}") #create the new Sequence Feature
-                        f2.append(Bio::Feature::Qualifier.new('repeat_motif', 'CTTCTT'))
-                        f2.append(Bio::Feature::Qualifier.new('strand', "#{strand}"))
-                        f2.append(Bio::Feature::Qualifier.new('ID',assoc['note']))
-                        f2.append(Bio::Feature::Qualifier.new('chr',"chr#{chromosome}"))
-                        bioseq.features << f2 #add the new Sequence Feature
+                    if !loc_tab.to_set.include?(start)
+                        loc_tab+=[start]
+                        f1 = Bio::Feature.new('repeatExon',"#{start}..#{eNd}") #create the new Sequence Feature
+                        f1.append(Bio::Feature::Qualifier.new('repeat_motif', 'CTTCTT'))
+                        f1.append(Bio::Feature::Qualifier.new('strand', "#{strand}"))
+                        f1.append(Bio::Feature::Qualifier.new('ID',assoc['note']))
+                        f1.append(Bio::Feature::Qualifier.new('chr',"chr#{chromosome}"))
+                        bioseq.features << f1 #add the new Sequence Feature
+
+                        exon1=exon.splice("#{s+1}..#{e+4}") #retrive the cttctt sequence + 3 nucleotides 
+                        if exon1.match(/#{re}+(?=ctt)/) #check if before the cttctt sequence, the 3 nucleotides correspond to "ctt"
+                            f2 = Bio::Feature.new('repeatExon',"#{start1}..#{eNd1}") #create the new Sequence Feature
+                            f2.append(Bio::Feature::Qualifier.new('repeat_motif', 'CTTCTT'))
+                            f2.append(Bio::Feature::Qualifier.new('strand', "#{strand}"))
+                            f2.append(Bio::Feature::Qualifier.new('ID',assoc['note']))
+                            f2.append(Bio::Feature::Qualifier.new('chr',"chr#{chromosome}"))
+                            bioseq.features << f2 #add the new Sequence Feature
+                        end
                     end
                 end
             end
