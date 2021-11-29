@@ -1,0 +1,180 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------  
+The gene AT4G27030 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------  
+The gene AT5G54270 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------  
+The gene AT1G21400 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------  
+Gene AT5G19120
+         KEGG Pathway : {}
+                   GO : {"GO:0071456"=>"P:cellular response to hypoxia"}
+Interact with :
+
+ - AT2G13360    KEGG Pathway : {"ath00250"=>"Alanine, aspartate and glutamate metabolism", "ath00260"=>"Glycine, serine and threonine metabolism", "ath00630"=>"Glyoxylate and dicarboxylate metabolism", "ath01100"=>"Metabolic pathways", "ath01110"=>"Biosynthesis of secondary metabolites", "ath01200"=>"Carbon metabolism", "ath04146"=>"Peroxisome"}
+                          GO : {"GO:0019265"=>"P:glycine biosynthetic process, by transamination of glyoxylate", "GO:0009853"=>"P:photorespiration"}
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gene AT2G13360
+         KEGG Pathway : {"ath00250"=>"Alanine, aspartate and glutamate metabolism", "ath00260"=>"Glycine, serine and threonine metabolism", "ath00630"=>"Glyoxylate and dicarboxylate metabolism", "ath01100"=>"Metabolic pathways", "ath01110"=>"Biosynthesis of secondary metabolites", "ath01200"=>"Carbon metabolism", "ath04146"=>"Peroxisome"}
+                   GO : {"GO:0019265"=>"P:glycine biosynthetic process, by transamination of glyoxylate", "GO:0009853"=>"P:photorespiration"}
+Interact with :
+
+ - AT2G47930    KEGG Pathway : {}
+                          GO : {"GO:0080167"=>"P:response to karrikin"}
+ - AT5G01530    KEGG Pathway : {"ath00196"=>"Photosynthesis - antenna proteins", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0009768"=>"P:photosynthesis, light harvesting in photosystem I", "GO:0018298"=>"P:protein-chromophore linkage", "GO:0009416"=>"P:response to light stimulus", "GO:0009765"=>"P:photosynthesis, light harvesting"}
+ - AT5G19120    KEGG Pathway : {}
+                          GO : {"GO:0071456"=>"P:cellular response to hypoxia"}
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT4G05180 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT1G22690 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT2G45170 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gene AT4G09650
+         KEGG Pathway : {"ath00190"=>"Oxidative phosphorylation", "ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+                   GO : {"GO:0015986"=>"P:ATP synthesis coupled proton transport", "GO:0042742"=>"P:defense response to bacterium", "GO:0015979"=>"P:photosynthesis", "GO:0009773"=>"P:photosynthetic electron transport in photosystem I", "GO:0009772"=>"P:photosynthetic electron transport in photosystem II", "GO:0009409"=>"P:response to cold", "GO:0035556"=>"P:intracellular signal transduction"}
+Interact with :
+
+ - AT1G03130    KEGG Pathway : {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0015979"=>"P:photosynthesis"}
+ - AT4G02770    KEGG Pathway : {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0140547"=>"P:acquisition of seed longevity", "GO:0015979"=>"P:photosynthesis", "GO:0035556"=>"P:intracellular signal transduction"}
+ - AT1G37130    KEGG Pathway : {"ath00910"=>"Nitrogen metabolism", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0042128"=>"P:nitrate assimilation", "GO:0006809"=>"P:nitric oxide biosynthetic process", "GO:0009635"=>"P:response to herbicide", "GO:0009416"=>"P:response to light stimulus", "GO:0009610"=>"P:response to symbiotic fungus"}
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT5G55620 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT1G31330 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT1G80440 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT3G28270 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT4G12800 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gene AT5G04140
+         KEGG Pathway : {"ath00630"=>"Glyoxylate and dicarboxylate metabolism", "ath00910"=>"Nitrogen metabolism"}
+                   GO : {"GO:0019676"=>"P:ammonia assimilation cycle", "GO:0006537"=>"P:glutamate biosynthetic process", "GO:0097054"=>"P:L-glutamate biosynthetic process", "GO:0009853"=>"P:photorespiration", "GO:0080114"=>"P:positive regulation of glycine hydroxymethyltransferase activity", "GO:0009416"=>"P:response to light stimulus", "GO:0009744"=>"P:response to sucrose", "GO:0006541"=>"P:glutamine metabolic process"}
+Interact with :
+
+ - AT2G43010    KEGG Pathway : {"ath04075"=>"Plant hormone signal transduction"}
+                          GO : {"GO:0009704"=>"P:de-etiolation", "GO:0009638"=>"P:phototropism", "GO:0010161"=>"P:red light signaling pathway", "GO:0010017"=>"P:red or far-red light signaling pathway", "GO:0009585"=>"P:red, far-red light phototransduction", "GO:0010600"=>"P:regulation of auxin biosynthetic process", "GO:0010928"=>"P:regulation of auxin mediated signaling pathway", "GO:0010244"=>"P:response to low fluence blue light stimulus by blue low-fluence system"}
+ - AT4G33010    KEGG Pathway : {"ath00260"=>"Glycine, serine and threonine metabolism", "ath00630"=>"Glyoxylate and dicarboxylate metabolism", "ath01100"=>"Metabolic pathways", "ath01110"=>"Biosynthesis of secondary metabolites", "ath01200"=>"Carbon metabolism"}
+                          GO : {"GO:0006546"=>"P:glycine catabolic process", "GO:0019464"=>"P:glycine decarboxylation via glycine cleavage system", "GO:0046686"=>"P:response to cadmium ion"}
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gene AT5G64040
+         KEGG Pathway : {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+                   GO : {"GO:0015979"=>"P:photosynthesis"}
+Interact with :
+
+ - AT1G20020    KEGG Pathway : {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0042742"=>"P:defense response to bacterium", "GO:0050832"=>"P:defense response to fungus", "GO:0015979"=>"P:photosynthesis", "GO:0006260"=>"P:DNA replication"}
+ - AT1G12250    KEGG Pathway : {}
+                          GO : {"GO:0006888"=>"P:endoplasmic reticulum to Golgi vesicle-mediated transport", "GO:0006890"=>"P:retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum"}
+ - AT3G50820    KEGG Pathway : {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0010205"=>"P:photoinhibition", "GO:0019684"=>"P:photosynthesis, light reaction", "GO:0010207"=>"P:photosystem II assembly", "GO:0042549"=>"P:photosystem II stabilization", "GO:0035304"=>"P:regulation of protein dephosphorylation"}
+ - AT1G06680    KEGG Pathway : {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0042742"=>"P:defense response to bacterium", "GO:0019684"=>"P:photosynthesis, light reaction", "GO:0015979"=>"P:photosynthesis"}
+ - AT4G09010    KEGG Pathway : {"ath00053"=>"Ascorbate and aldarate metabolism", "ath00480"=>"Glutathione metabolism", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0034599"=>"P:cellular response to oxidative stress", "GO:0042744"=>"P:hydrogen peroxide catabolic process", "GO:0000302"=>"P:response to reactive oxygen species"}
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT1G29660 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT1G15820 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT1G64500 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gene AT1G03130
+         KEGG Pathway : {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+                   GO : {"GO:0015979"=>"P:photosynthesis"}
+Interact with :
+
+ - AT4G02770    KEGG Pathway : {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0140547"=>"P:acquisition of seed longevity", "GO:0015979"=>"P:photosynthesis", "GO:0035556"=>"P:intracellular signal transduction"}
+ - AT2G34420    KEGG Pathway : {"ath00196"=>"Photosynthesis - antenna proteins", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0009765"=>"P:photosynthesis, light harvesting", "GO:0018298"=>"P:protein-chromophore linkage", "GO:0009768"=>"P:photosynthesis, light harvesting in photosystem I", "GO:0009416"=>"P:response to light stimulus", "GO:0032875"=>"P:regulation of DNA endoreduplication"}
+ - AT5G17300    KEGG Pathway : {}
+                          GO : {"GO:0009734"=>"P:auxin-activated signaling pathway", "GO:0007623"=>"P:circadian rhythm", "GO:0010600"=>"P:regulation of auxin biosynthetic process", "GO:0006355"=>"P:regulation of transcription, DNA-templated", "GO:0016567"=>"P:protein ubiquitination"}
+ - AT4G17460    KEGG Pathway : {}
+                          GO : {"GO:0003006"=>"P:developmental process involved in reproduction", "GO:0010582"=>"P:floral meristem determinacy", "GO:0080127"=>"P:fruit septum development", "GO:0048467"=>"P:gynoecium development"}
+ - AT1G29910    KEGG Pathway : {"ath00196"=>"Photosynthesis - antenna proteins", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0009768"=>"P:photosynthesis, light harvesting in photosystem I", "GO:0018298"=>"P:protein-chromophore linkage", "GO:0009750"=>"P:response to fructose", "GO:0009416"=>"P:response to light stimulus", "GO:0009733"=>"P:response to auxin", "GO:0009765"=>"P:photosynthesis, light harvesting"}  
+ - AT3G16250    KEGG Pathway : {}
+                          GO : {"GO:0009773"=>"P:photosynthetic electron transport in photosystem I", "GO:0006355"=>"P:regulation of transcription, DNA-templated"}
+ - AT1G29920    KEGG Pathway : {"ath00196"=>"Photosynthesis - antenna proteins", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0009768"=>"P:photosynthesis, light harvesting in photosystem I", "GO:0018298"=>"P:protein-chromophore linkage", "GO:0009750"=>"P:response to fructose", "GO:0009416"=>"P:response to light stimulus", "GO:0009765"=>"P:photosynthesis, light harvesting"}
+ - AT5G15850    KEGG Pathway : {}
+                          GO : {"GO:0009909"=>"P:regulation of flower development", "GO:0000398"=>"P:mRNA splicing, via spliceosome"}
+ - AT2G17880    KEGG Pathway : {}
+                          GO : {}
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT2G20670 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT4G17090 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT1G23740 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT2G46340 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT1G07010 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT1G32220 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT2G03750 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT3G47470 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT4G12830 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT5G64410 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT2G21330 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT1G15980 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT2G01890 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gene AT1G12250
+         KEGG Pathway : {}
+                   GO : {"GO:0006888"=>"P:endoplasmic reticulum to Golgi vesicle-mediated transport", "GO:0006890"=>"P:retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum"}
+Interact with :
+
+ - AT1G20020    KEGG Pathway : {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0042742"=>"P:defense response to bacterium", "GO:0050832"=>"P:defense response to fungus", "GO:0015979"=>"P:photosynthesis", "GO:0006260"=>"P:DNA replication"}
+ - AT3G50820    KEGG Pathway : {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0010205"=>"P:photoinhibition", "GO:0019684"=>"P:photosynthesis, light reaction", "GO:0010207"=>"P:photosystem II assembly", "GO:0042549"=>"P:photosystem II stabilization", "GO:0035304"=>"P:regulation of protein dephosphorylation"}
+ - AT1G06680    KEGG Pathway : {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0042742"=>"P:defense response to bacterium", "GO:0019684"=>"P:photosynthesis, light reaction", "GO:0015979"=>"P:photosynthesis"}
+ - AT4G09010    KEGG Pathway : {"ath00053"=>"Ascorbate and aldarate metabolism", "ath00480"=>"Glutathione metabolism", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0034599"=>"P:cellular response to oxidative stress", "GO:0042744"=>"P:hydrogen peroxide catabolic process", "GO:0000302"=>"P:response to reactive oxygen species", "GO:0006979"=>"P:response to oxidative stress"}
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT2G21210 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT4G28660 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT1G52230 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT3G18890 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gene AT1G12250
+         KEGG Pathway : {}
+                   GO : {"GO:0006888"=>"P:endoplasmic reticulum to Golgi vesicle-mediated transport", "GO:0006890"=>"P:retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum"}
+Interact with :
+
+ - AT1G20020    KEGG Pathway : {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0042742"=>"P:defense response to bacterium", "GO:0050832"=>"P:defense response to fungus", "GO:0015979"=>"P:photosynthesis", "GO:0006260"=>"P:DNA replication"}
+ - AT3G50820    KEGG Pathway : {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0010205"=>"P:photoinhibition", "GO:0019684"=>"P:photosynthesis, light reaction", "GO:0010207"=>"P:photosystem II assembly", "GO:0042549"=>"P:photosystem II stabilization", "GO:0035304"=>"P:regulation of protein dephosphorylation"}
+ - AT1G06680    KEGG Pathway : {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0042742"=>"P:defense response to bacterium", "GO:0019684"=>"P:photosynthesis, light reaction", "GO:0015979"=>"P:photosynthesis"}
+ - AT4G09010    KEGG Pathway : {"ath00053"=>"Ascorbate and aldarate metabolism", "ath00480"=>"Glutathione metabolism", "ath01100"=>"Metabolic pathways"}
+                          GO : {"GO:0034599"=>"P:cellular response to oxidative stress", "GO:0042744"=>"P:hydrogen peroxide catabolic process", "GO:0000302"=>"P:response to reactive oxygen species", "GO:0006979"=>"P:response to oxidative stress"}
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT2G21210 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT4G28660 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT1G52230 interacts with no gene from the list.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+The gene AT3G18890 interacts with no gene from the list.
