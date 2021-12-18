@@ -1,0 +1,2604 @@
+###################################################################################
+
+SPAC977.16c and AT1G48430.1 are orthologs : 
+Sens 1 : SPAC977.16c -> AT1G48430.1 with a evalue = 6.04292e-86
+Sens 2 : AT1G48430.1 -> SPAC977.16c with a evalue = 2.70199e-87
+
+###################################################################################
+
+SPAC977.17 and AT3G06100.1 are orthologs : 
+Sens 1 : SPAC977.17 -> AT3G06100.1 with a evalue = 2.86871e-14
+Sens 2 : AT3G06100.1 -> SPAC977.17 with a evalue = 5.3703e-15
+
+###################################################################################
+
+SPAC11D3.05 and AT5G65687.1 are orthologs : 
+Sens 1 : SPAC11D3.05 -> AT5G65687.1 with a evalue = 8.75554e-06
+Sens 2 : AT5G65687.1 -> SPAC11D3.05 with a evalue = 1.68277e-11
+
+###################################################################################
+
+SPAC11D3.15 and AT5G37830.1 are orthologs : 
+Sens 1 : SPAC11D3.15 -> AT5G37830.1 with a evalue = 0.0
+Sens 2 : AT5G37830.1 -> SPAC11D3.15 with a evalue = 0.0
+
+###################################################################################
+
+SPAC11D3.17 and AT5G59820.1 are orthologs : 
+Sens 1 : SPAC11D3.17 -> AT5G59820.1 with a evalue = 0.00042659
+Sens 2 : AT5G59820.1 -> SPAC11D3.17 with a evalue = 1.95524e-05
+
+###################################################################################
+
+SPAC5H10.03 and AT1G58280.3 are orthologs : 
+Sens 1 : SPAC5H10.03 -> AT1G58280.3 with a evalue = 1.17474e-15
+Sens 2 : AT1G58280.3 -> SPAC5H10.03 with a evalue = 2.68242e-16
+
+###################################################################################
+
+SPAC5H10.04 and AT1G76690.1 are orthologs : 
+Sens 1 : SPAC5H10.04 -> AT1G76690.1 with a evalue = 4.30776e-66
+Sens 2 : AT1G76690.1 -> SPAC5H10.04 with a evalue = 6.95627e-67
+
+###################################################################################
+
+SPAC5H10.08c and AT5G48840.1 are orthologs : 
+Sens 1 : SPAC5H10.08c -> AT5G48840.1 with a evalue = 6.7128e-60
+Sens 2 : AT5G48840.1 -> SPAC5H10.08c with a evalue = 1.21348e-60
+
+###################################################################################
+
+SPAC5H10.09c and AT2G46110.1 are orthologs : 
+Sens 1 : SPAC5H10.09c -> AT2G46110.1 with a evalue = 3.04237e-57
+Sens 2 : AT2G46110.1 -> SPAC5H10.09c with a evalue = 6.39576e-55
+
+###################################################################################
+
+SPAC5H10.13c and AT4G37690.1 are orthologs : 
+Sens 1 : SPAC5H10.13c -> AT4G37690.1 with a evalue = 1.57211e-12
+Sens 2 : AT4G37690.1 -> SPAC5H10.13c with a evalue = 3.23631e-13
+
+###################################################################################
+
+SPAC13G6.01c and AT5G22750.1 are orthologs : 
+Sens 1 : SPAC13G6.01c -> AT5G22750.1 with a evalue = 1.55906e-151
+Sens 2 : AT5G22750.1 -> SPAC13G6.01c with a evalue = 2.68004e-149
+
+###################################################################################
+
+SPAC13G6.03 and AT2G22530.1 are orthologs : 
+Sens 1 : SPAC13G6.03 -> AT2G22530.1 with a evalue = 4.73028e-55
+Sens 2 : AT2G22530.1 -> SPAC13G6.03 with a evalue = 3.84126e-58
+
+###################################################################################
+
+SPAC13G6.04 and AT5G50810.1 are orthologs : 
+Sens 1 : SPAC13G6.04 -> AT5G50810.1 with a evalue = 1.87268e-08
+Sens 2 : AT5G50810.1 -> SPAC13G6.04 with a evalue = 2.47762e-12
+
+###################################################################################
+
+SPAC13G6.05c and AT3G05000.1 are orthologs : 
+Sens 1 : SPAC13G6.05c -> AT3G05000.1 with a evalue = 5.74677e-30
+Sens 2 : AT3G05000.1 -> SPAC13G6.05c with a evalue = 5.90647e-31
+
+###################################################################################
+
+SPAC13G6.06c and AT2G26080.1 are orthologs : 
+Sens 1 : SPAC13G6.06c -> AT2G26080.1 with a evalue = 0.0
+Sens 2 : AT2G26080.1 -> SPAC13G6.06c with a evalue = 0.0
+
+###################################################################################
+
+SPAC13G6.07c and AT5G10360.1 are orthologs : 
+Sens 1 : SPAC13G6.07c -> AT5G10360.1 with a evalue = 1.66274e-80
+Sens 2 : AT5G10360.1 -> SPAC13G6.07c with a evalue = 9.59457e-74
+
+###################################################################################
+
+SPAC13G6.09 and AT4G02220.1 are orthologs : 
+Sens 1 : SPAC13G6.09 -> AT4G02220.1 with a evalue = 1.93142e-12
+Sens 2 : AT4G02220.1 -> SPAC13G6.09 with a evalue = 8.27124e-14
+
+###################################################################################
+
+SPAC13G6.11c and AT5G27450.3 are orthologs : 
+Sens 1 : SPAC13G6.11c -> AT5G27450.3 with a evalue = 1.52917e-21
+Sens 2 : AT5G27450.3 -> SPAC13G6.11c with a evalue = 1.61371e-45
+
+###################################################################################
+
+SPAC13G6.14 and AT1G73540.1 are orthologs : 
+Sens 1 : SPAC13G6.14 -> AT1G73540.1 with a evalue = 2.26368e-16
+Sens 2 : AT1G73540.1 -> SPAC13G6.14 with a evalue = 9.91809e-11
+
+###################################################################################
+
+SPAC24B11.05 and AT3G62040.1 are orthologs : 
+Sens 1 : SPAC24B11.05 -> AT3G62040.1 with a evalue = 7.3896e-30
+Sens 2 : AT3G62040.1 -> SPAC24B11.05 with a evalue = 6.80265e-25
+
+###################################################################################
+
+SPAC24B11.06c and AT3G45640.1 are orthologs : 
+Sens 1 : SPAC24B11.06c -> AT3G45640.1 with a evalue = 7.51202e-119
+Sens 2 : AT3G45640.1 -> SPAC24B11.06c with a evalue = 1.3136e-119
+
+###################################################################################
+
+SPAC24B11.08c and AT1G36050.2 are orthologs : 
+Sens 1 : SPAC24B11.08c -> AT1G36050.2 with a evalue = 2.76778e-73
+Sens 2 : AT1G36050.2 -> SPAC24B11.08c with a evalue = 1.3674e-68
+
+###################################################################################
+
+SPAC24B11.09 and AT4G22310.1 are orthologs : 
+Sens 1 : SPAC24B11.09 -> AT4G22310.1 with a evalue = 2.41277e-26
+Sens 2 : AT4G22310.1 -> SPAC24B11.09 with a evalue = 3.66622e-27
+
+###################################################################################
+
+SPAC24B11.13 and AT5G08280.1 are orthologs : 
+Sens 1 : SPAC24B11.13 -> AT5G08280.1 with a evalue = 2.76061e-43
+Sens 2 : AT5G08280.1 -> SPAC24B11.13 with a evalue = 5.17632e-44
+
+###################################################################################
+
+SPAC806.02c and AT2G26060.2 are orthologs : 
+Sens 1 : SPAC806.02c -> AT2G26060.2 with a evalue = 2.80401e-61
+Sens 2 : AT2G26060.2 -> SPAC806.02c with a evalue = 2.51119e-62
+
+###################################################################################
+
+SPAC806.06c and AT5G55810.1 are orthologs : 
+Sens 1 : SPAC806.06c -> AT5G55810.1 with a evalue = 1.82238e-48
+Sens 2 : AT5G55810.1 -> SPAC806.06c with a evalue = 1.94691e-49
+
+###################################################################################
+
+SPAC806.05 and AT5G10310.1 are orthologs : 
+Sens 1 : SPAC806.05 -> AT5G10310.1 with a evalue = 0.00188334
+Sens 2 : AT5G10310.1 -> SPAC806.05 with a evalue = 0.000304847
+
+###################################################################################
+
+SPAC806.07 and AT4G09320.1 are orthologs : 
+Sens 1 : SPAC806.07 -> AT4G09320.1 with a evalue = 7.8418e-58
+Sens 2 : AT4G09320.1 -> SPAC806.07 with a evalue = 1.45226e-58
+
+###################################################################################
+
+SPAC1F5.10 and AT3G19760.1 are orthologs : 
+Sens 1 : SPAC1F5.10 -> AT3G19760.1 with a evalue = 0.0
+Sens 2 : AT3G19760.1 -> SPAC1F5.10 with a evalue = 0.0
+
+###################################################################################
+
+SPAC1F5.07c and AT5G14220.1 are orthologs : 
+Sens 1 : SPAC1F5.07c -> AT5G14220.1 with a evalue = 3.95341e-19
+Sens 2 : AT5G14220.1 -> SPAC1F5.07c with a evalue = 5.40964e-07
+
+###################################################################################
+
+SPAC1F5.03c and AT5G67290.1 are orthologs : 
+Sens 1 : SPAC1F5.03c -> AT5G67290.1 with a evalue = 4.07485e-31
+Sens 2 : AT5G67290.1 -> SPAC1F5.03c with a evalue = 4.73116e-40
+
+###################################################################################
+
+SPAC1F5.02 and AT1G77510.1 are orthologs : 
+Sens 1 : SPAC1F5.02 -> AT1G77510.1 with a evalue = 5.18775e-74
+Sens 2 : AT1G77510.1 -> SPAC1F5.02 with a evalue = 4.35117e-70
+
+###################################################################################
+
+SPAC18B11.07c and AT1G14400.2 are orthologs : 
+Sens 1 : SPAC18B11.07c -> AT1G14400.2 with a evalue = 5.31831e-71
+Sens 2 : AT1G14400.2 -> SPAC18B11.07c with a evalue = 8.84984e-81
+
+###################################################################################
+
+SPAC18B11.06 and AT1G07840.3 are orthologs : 
+Sens 1 : SPAC18B11.06 -> AT1G07840.3 with a evalue = 3.44705e-09
+Sens 2 : AT1G07840.3 -> SPAC18B11.06 with a evalue = 5.86799e-11
+
+###################################################################################
+
+SPAC18B11.05 and AT1G11880.1 are orthologs : 
+Sens 1 : SPAC18B11.05 -> AT1G11880.1 with a evalue = 5.56883e-17
+Sens 2 : AT1G11880.1 -> SPAC18B11.05 with a evalue = 3.57412e-20
+
+###################################################################################
+
+SPAC18B11.02c and AT5G51140.1 are orthologs : 
+Sens 1 : SPAC18B11.02c -> AT5G51140.1 with a evalue = 1.28993e-73
+Sens 2 : AT5G51140.1 -> SPAC18B11.02c with a evalue = 2.13266e-74
+
+###################################################################################
+
+SPAC12G12.14c and AT5G13480.1 are orthologs : 
+Sens 1 : SPAC12G12.14c -> AT5G13480.1 with a evalue = 1.27138e-114
+Sens 2 : AT5G13480.1 -> SPAC12G12.14c with a evalue = 1.47635e-115
+
+###################################################################################
+
+SPAC12G12.13c and AT5G53770.1 are orthologs : 
+Sens 1 : SPAC12G12.13c -> AT5G53770.1 with a evalue = 4.70419e-53
+Sens 2 : AT5G53770.1 -> SPAC12G12.13c with a evalue = 7.15147e-57
+
+###################################################################################
+
+SPAC12G12.11c and AT4G11860.1 are orthologs : 
+Sens 1 : SPAC12G12.11c -> AT4G11860.1 with a evalue = 0.0160665
+Sens 2 : AT4G11860.1 -> SPAC12G12.11c with a evalue = 0.0061457
+
+###################################################################################
+
+SPAC12G12.08 and AT1G05190.1 are orthologs : 
+Sens 1 : SPAC12G12.08 -> AT1G05190.1 with a evalue = 2.38924e-30
+Sens 2 : AT1G05190.1 -> SPAC12G12.08 with a evalue = 4.13319e-31
+
+###################################################################################
+
+SPAC12G12.06c and AT5G22100.1 are orthologs : 
+Sens 1 : SPAC12G12.06c -> AT5G22100.1 with a evalue = 2.1845e-72
+Sens 2 : AT5G22100.1 -> SPAC12G12.06c with a evalue = 1.80909e-65
+
+###################################################################################
+
+SPAC12G12.05c and AT1G54140.1 are orthologs : 
+Sens 1 : SPAC12G12.05c -> AT1G54140.1 with a evalue = 3.23794e-27
+Sens 2 : AT1G54140.1 -> SPAC12G12.05c with a evalue = 6.07754e-28
+
+###################################################################################
+
+SPAC12G12.04 and AT3G23990.1 are orthologs : 
+Sens 1 : SPAC12G12.04 -> AT3G23990.1 with a evalue = 0.0
+Sens 2 : AT3G23990.1 -> SPAC12G12.04 with a evalue = 0.0
+
+###################################################################################
+
+SPAC12G12.02 and AT1G04230.1 are orthologs : 
+Sens 1 : SPAC12G12.02 -> AT1G04230.1 with a evalue = 1.49222e-12
+Sens 2 : AT1G04230.1 -> SPAC12G12.02 with a evalue = 6.13273e-11
+
+###################################################################################
+
+SPAC630.03 and AT1G13180.1 are orthologs : 
+Sens 1 : SPAC630.03 -> AT1G13180.1 with a evalue = 2.16743e-158
+Sens 2 : AT1G13180.1 -> SPAC630.03 with a evalue = 3.25737e-155
+
+###################################################################################
+
+SPAC630.05 and AT5G52580.1 are orthologs : 
+Sens 1 : SPAC630.05 -> AT5G52580.1 with a evalue = 4.55384e-71
+Sens 2 : AT5G52580.1 -> SPAC630.05 with a evalue = 7.87262e-75
+
+###################################################################################
+
+SPAC630.08c and AT1G07420.1 are orthologs : 
+Sens 1 : SPAC630.08c -> AT1G07420.1 with a evalue = 1.85366e-59
+Sens 2 : AT1G07420.1 -> SPAC630.08c with a evalue = 2.62732e-60
+
+###################################################################################
+
+SPAC630.09c and AT1G80380.3 are orthologs : 
+Sens 1 : SPAC630.09c -> AT1G80380.3 with a evalue = 2.3084e-52
+Sens 2 : AT1G80380.3 -> SPAC630.09c with a evalue = 5.00358e-53
+
+###################################################################################
+
+SPAC630.11 and AT1G32410.5 are orthologs : 
+Sens 1 : SPAC630.11 -> AT1G32410.5 with a evalue = 1.54489e-15
+Sens 2 : AT1G32410.5 -> SPAC630.11 with a evalue = 2.7994e-16
+
+###################################################################################
+
+SPAC630.12 and AT1G53710.2 are orthologs : 
+Sens 1 : SPAC630.12 -> AT1G53710.2 with a evalue = 1.17617e-41
+Sens 2 : AT1G53710.2 -> SPAC630.12 with a evalue = 6.41743e-45
+
+###################################################################################
+
+SPAC1751.02c and ATCG00820.1 are orthologs : 
+Sens 1 : SPAC1751.02c -> ATCG00820.1 with a evalue = 1.27958e-10
+Sens 2 : ATCG00820.1 -> SPAC1751.02c with a evalue = 2.10486e-11
+
+###################################################################################
+
+SPAC1751.03 and AT5G15610.2 are orthologs : 
+Sens 1 : SPAC1751.03 -> AT5G15610.2 with a evalue = 1.05031e-24
+Sens 2 : AT5G15610.2 -> SPAC1751.03 with a evalue = 1.11235e-23
+
+###################################################################################
+
+SPAC31A2.02 and AT1G78190.1 are orthologs : 
+Sens 1 : SPAC31A2.02 -> AT1G78190.1 with a evalue = 8.06495e-26
+Sens 2 : AT1G78190.1 -> SPAC31A2.02 with a evalue = 3.82422e-21
+
+###################################################################################
+
+SPAC31A2.04c and AT4G14800.1 are orthologs : 
+Sens 1 : SPAC31A2.04c -> AT4G14800.1 with a evalue = 9.01638e-52
+Sens 2 : AT4G14800.1 -> SPAC31A2.04c with a evalue = 1.52903e-52
+
+###################################################################################
+
+SPAC31A2.05c and AT5G15540.2 are orthologs : 
+Sens 1 : SPAC31A2.05c -> AT5G15540.2 with a evalue = 1.96488e-20
+Sens 2 : AT5G15540.2 -> SPAC31A2.05c with a evalue = 8.30439e-21
+
+###################################################################################
+
+SPAC31A2.07c and AT1G77030.1 are orthologs : 
+Sens 1 : SPAC31A2.07c -> AT1G77030.1 with a evalue = 1.51138e-148
+Sens 2 : AT1G77030.1 -> SPAC31A2.07c with a evalue = 4.90662e-140
+
+###################################################################################
+
+SPAC31A2.14 and AT3G05090.2 are orthologs : 
+Sens 1 : SPAC31A2.14 -> AT3G05090.2 with a evalue = 2.20406e-50
+Sens 2 : AT3G05090.2 -> SPAC31A2.14 with a evalue = 5.64399e-53
+
+###################################################################################
+
+SPAC31A2.15c and AT2G44580.1 are orthologs : 
+Sens 1 : SPAC31A2.15c -> AT2G44580.1 with a evalue = 9.42427e-07
+Sens 2 : AT2G44580.1 -> SPAC31A2.15c with a evalue = 1.72606e-07
+
+###################################################################################
+
+SPAC13C5.01c and AT3G22110.1 are orthologs : 
+Sens 1 : SPAC13C5.01c -> AT3G22110.1 with a evalue = 2.31954e-102
+Sens 2 : AT3G22110.1 -> SPAC13C5.01c with a evalue = 1.26643e-97
+
+###################################################################################
+
+SPAC13C5.04 and AT2G23960.1 are orthologs : 
+Sens 1 : SPAC13C5.04 -> AT2G23960.1 with a evalue = 5.97962e-22
+Sens 2 : AT2G23960.1 -> SPAC13C5.04 with a evalue = 2.36658e-17
+
+###################################################################################
+
+SPAC13C5.05c and AT5G18070.1 are orthologs : 
+Sens 1 : SPAC13C5.05c -> AT5G18070.1 with a evalue = 6.05095e-137
+Sens 2 : AT5G18070.1 -> SPAC13C5.05c with a evalue = 6.90334e-135
+
+###################################################################################
+
+SPAC13C5.07 and AT5G54260.1 are orthologs : 
+Sens 1 : SPAC13C5.07 -> AT5G54260.1 with a evalue = 5.01574e-116
+Sens 2 : AT5G54260.1 -> SPAC13C5.07 with a evalue = 7.20503e-121
+
+###################################################################################
+
+SPAC24H6.12c and AT5G19180.1 are orthologs : 
+Sens 1 : SPAC24H6.12c -> AT5G19180.1 with a evalue = 3.81363e-103
+Sens 2 : AT5G19180.1 -> SPAC24H6.12c with a evalue = 3.21544e-93
+
+###################################################################################
+
+SPAC24H6.04 and AT4G29130.1 are orthologs : 
+Sens 1 : SPAC24H6.04 -> AT4G29130.1 with a evalue = 1.75415e-81
+Sens 2 : AT4G29130.1 -> SPAC24H6.04 with a evalue = 1.59803e-85
+
+###################################################################################
+
+SPAC24H6.03 and AT1G69670.1 are orthologs : 
+Sens 1 : SPAC24H6.03 -> AT1G69670.1 with a evalue = 5.35107e-150
+Sens 2 : AT1G69670.1 -> SPAC24H6.03 with a evalue = 2.04272e-150
+
+###################################################################################
+
+SPAC24H6.02c and AT3G54826.1 are orthologs : 
+Sens 1 : SPAC24H6.02c -> AT3G54826.1 with a evalue = 1.50384e-16
+Sens 2 : AT3G54826.1 -> SPAC24H6.02c with a evalue = 3.89692e-17
+
+###################################################################################
+
+SPAC24H6.01c and AT1G57600.1 are orthologs : 
+Sens 1 : SPAC24H6.01c -> AT1G57600.1 with a evalue = 1.34907e-87
+Sens 2 : AT1G57600.1 -> SPAC24H6.01c with a evalue = 9.08716e-90
+
+###################################################################################
+
+SPAPB21F2.03 and AT2G01640.2 are orthologs : 
+Sens 1 : SPAPB21F2.03 -> AT2G01640.2 with a evalue = 0.0711241
+Sens 2 : AT2G01640.2 -> SPAPB21F2.03 with a evalue = 0.00943371
+
+###################################################################################
+
+SPAC227.01c and AT5G35730.1 are orthologs : 
+Sens 1 : SPAC227.01c -> AT5G35730.1 with a evalue = 7.72229e-24
+Sens 2 : AT5G35730.1 -> SPAC227.01c with a evalue = 1.50113e-24
+
+###################################################################################
+
+SPAC227.02c and AT5G48240.1 are orthologs : 
+Sens 1 : SPAC227.02c -> AT5G48240.1 with a evalue = 0.0749517
+Sens 2 : AT5G48240.1 -> SPAC227.02c with a evalue = 0.0136706
+
+###################################################################################
+
+SPAC227.05 and AT1G08780.1 are orthologs : 
+Sens 1 : SPAC227.05 -> AT1G08780.1 with a evalue = 3.64946e-07
+Sens 2 : AT1G08780.1 -> SPAC227.05 with a evalue = 1.6741e-07
+
+###################################################################################
+
+SPAC227.06 and AT5G27490.1 are orthologs : 
+Sens 1 : SPAC227.06 -> AT5G27490.1 with a evalue = 5.66749e-17
+Sens 2 : AT5G27490.1 -> SPAC227.06 with a evalue = 5.76342e-19
+
+###################################################################################
+
+SPAC227.07c and AT1G17720.2 are orthologs : 
+Sens 1 : SPAC227.07c -> AT1G17720.2 with a evalue = 3.15959e-162
+Sens 2 : AT1G17720.2 -> SPAC227.07c with a evalue = 1.85385e-172
+
+###################################################################################
+
+SPAC227.08c and AT1G30460.2 are orthologs : 
+Sens 1 : SPAC227.08c -> AT1G30460.2 with a evalue = 4.64003e-20
+Sens 2 : AT1G30460.2 -> SPAC227.08c with a evalue = 9.83928e-21
+
+###################################################################################
+
+SPAC227.10 and AT3G22480.1 are orthologs : 
+Sens 1 : SPAC227.10 -> AT3G22480.1 with a evalue = 4.79546e-21
+Sens 2 : AT3G22480.1 -> SPAC227.10 with a evalue = 1.83506e-19
+
+###################################################################################
+
+SPAC227.11c and AT5G35080.1 are orthologs : 
+Sens 1 : SPAC227.11c -> AT5G35080.1 with a evalue = 2.14172e-14
+Sens 2 : AT5G35080.1 -> SPAC227.11c with a evalue = 3.21621e-15
+
+###################################################################################
+
+SPAC227.12 and AT2G41500.1 are orthologs : 
+Sens 1 : SPAC227.12 -> AT2G41500.1 with a evalue = 1.42678e-97
+Sens 2 : AT2G41500.1 -> SPAC227.12 with a evalue = 1.02538e-102
+
+###################################################################################
+
+SPAC227.13c and AT4G04080.1 are orthologs : 
+Sens 1 : SPAC227.13c -> AT4G04080.1 with a evalue = 4.34783e-62
+Sens 2 : AT4G04080.1 -> SPAC227.13c with a evalue = 6.40703e-63
+
+###################################################################################
+
+SPAC227.14 and AT1G03030.1 are orthologs : 
+Sens 1 : SPAC227.14 -> AT1G03030.1 with a evalue = 4.53355e-38
+Sens 2 : AT1G03030.1 -> SPAC227.14 with a evalue = 9.58373e-39
+
+###################################################################################
+
+SPAC227.16c and AT3G55490.1 are orthologs : 
+Sens 1 : SPAC227.16c -> AT3G55490.1 with a evalue = 2.39512e-13
+Sens 2 : AT3G55490.1 -> SPAC227.16c with a evalue = 4.41457e-14
+
+###################################################################################
+
+SPAC227.17c and AT4G25315.2 are orthologs : 
+Sens 1 : SPAC227.17c -> AT4G25315.2 with a evalue = 2.77915e-07
+Sens 2 : AT4G25315.2 -> SPAC227.17c with a evalue = 4.11822e-08
+
+###################################################################################
+
+SPAC2F7.02c and AT5G11860.4 are orthologs : 
+Sens 1 : SPAC2F7.02c -> AT5G11860.4 with a evalue = 7.53547e-43
+Sens 2 : AT5G11860.4 -> SPAC2F7.02c with a evalue = 2.61228e-37
+
+###################################################################################
+
+SPAC2F7.05c and AT1G77840.1 are orthologs : 
+Sens 1 : SPAC2F7.05c -> AT1G77840.1 with a evalue = 4.12336e-50
+Sens 2 : AT1G77840.1 -> SPAC2F7.05c with a evalue = 6.80474e-39
+
+###################################################################################
+
+SPAC2F7.06c and AT1G10520.1 are orthologs : 
+Sens 1 : SPAC2F7.06c -> AT1G10520.1 with a evalue = 5.53916e-25
+Sens 2 : AT1G10520.1 -> SPAC2F7.06c with a evalue = 2.33266e-28
+
+###################################################################################
+
+SPAC2F7.08c and AT3G17590.1 are orthologs : 
+Sens 1 : SPAC2F7.08c -> AT3G17590.1 with a evalue = 3.47761e-14
+Sens 2 : AT3G17590.1 -> SPAC2F7.08c with a evalue = 1.61401e-15
+
+###################################################################################
+
+SPAC2F7.09c and AT3G57180.1 are orthologs : 
+Sens 1 : SPAC2F7.09c -> AT3G57180.1 with a evalue = 3.14451e-10
+Sens 2 : AT3G57180.1 -> SPAC2F7.09c with a evalue = 6.75132e-10
+
+###################################################################################
+
+SPAC2F7.10 and AT2G14255.1 are orthologs : 
+Sens 1 : SPAC2F7.10 -> AT2G14255.1 with a evalue = 1.27046e-45
+Sens 2 : AT2G14255.1 -> SPAC2F7.10 with a evalue = 2.5812e-51
+
+###################################################################################
+
+SPAC2F7.13c and AT3G04600.3 are orthologs : 
+Sens 1 : SPAC2F7.13c -> AT3G04600.3 with a evalue = 1.08751e-155
+Sens 2 : AT3G04600.3 -> SPAC2F7.13c with a evalue = 5.61411e-147
+
+###################################################################################
+
+SPAC2F7.14c and AT1G03360.1 are orthologs : 
+Sens 1 : SPAC2F7.14c -> AT1G03360.1 with a evalue = 5.53016e-62
+Sens 2 : AT1G03360.1 -> SPAC2F7.14c with a evalue = 1.04935e-62
+
+###################################################################################
+
+SPAC2F7.15 and AT3G18240.2 are orthologs : 
+Sens 1 : SPAC2F7.15 -> AT3G18240.2 with a evalue = 0.00531014
+Sens 2 : AT3G18240.2 -> SPAC2F7.15 with a evalue = 0.00117822
+
+###################################################################################
+
+SPAC2F7.16c and AT3G05630.1 are orthologs : 
+Sens 1 : SPAC2F7.16c -> AT3G05630.1 with a evalue = 1.20972e-65
+Sens 2 : AT3G05630.1 -> SPAC2F7.16c with a evalue = 6.30067e-65
+
+###################################################################################
+
+SPAC2F7.17 and AT2G47020.1 are orthologs : 
+Sens 1 : SPAC2F7.17 -> AT2G47020.1 with a evalue = 3.44855e-61
+Sens 2 : AT2G47020.1 -> SPAC2F7.17 with a evalue = 4.19346e-67
+
+###################################################################################
+
+SPAC13A11.02c and AT1G11680.1 are orthologs : 
+Sens 1 : SPAC13A11.02c -> AT1G11680.1 with a evalue = 9.22757e-82
+Sens 2 : AT1G11680.1 -> SPAC13A11.02c with a evalue = 9.89888e-83
+
+###################################################################################
+
+SPAC13A11.03 and AT4G29170.1 are orthologs : 
+Sens 1 : SPAC13A11.03 -> AT4G29170.1 with a evalue = 8.17833e-33
+Sens 2 : AT4G29170.1 -> SPAC13A11.03 with a evalue = 1.47984e-33
+
+###################################################################################
+
+SPAC13A11.04c and AT5G10790.1 are orthologs : 
+Sens 1 : SPAC13A11.04c -> AT5G10790.1 with a evalue = 4.27254e-63
+Sens 2 : AT5G10790.1 -> SPAC13A11.04c with a evalue = 4.2575e-55
+
+###################################################################################
+
+SPAC13A11.05 and AT2G24200.2 are orthologs : 
+Sens 1 : SPAC13A11.05 -> AT2G24200.2 with a evalue = 9.92632e-54
+Sens 2 : AT2G24200.2 -> SPAC13A11.05 with a evalue = 1.3505e-54
+
+###################################################################################
+
+SPAC3H8.04 and AT5G41110.1 are orthologs : 
+Sens 1 : SPAC3H8.04 -> AT5G41110.1 with a evalue = 0.000364978
+Sens 2 : AT5G41110.1 -> SPAC3H8.04 with a evalue = 8.34394e-05
+
+###################################################################################
+
+SPAC3H8.07c and AT5G49510.2 are orthologs : 
+Sens 1 : SPAC3H8.07c -> AT5G49510.2 with a evalue = 1.93724e-32
+Sens 2 : AT5G49510.2 -> SPAC3H8.07c with a evalue = 3.69581e-33
+
+###################################################################################
+
+SPAC3H8.10 and AT2G21540.3 are orthologs : 
+Sens 1 : SPAC3H8.10 -> AT2G21540.3 with a evalue = 2.24827e-67
+Sens 2 : AT2G21540.3 -> SPAC3H8.10 with a evalue = 7.17227e-68
+
+###################################################################################
+
+SPAC1F3.01 and AT5G35910.1 are orthologs : 
+Sens 1 : SPAC1F3.01 -> AT5G35910.1 with a evalue = 6.39312e-70
+Sens 2 : AT5G35910.1 -> SPAC1F3.01 with a evalue = 1.61068e-68
+
+###################################################################################
+
+SPAC1F3.04c and AT5G10070.1 are orthologs : 
+Sens 1 : SPAC1F3.04c -> AT5G10070.1 with a evalue = 5.26193e-49
+Sens 2 : AT5G10070.1 -> SPAC1F3.04c with a evalue = 4.80806e-50
+
+###################################################################################
+
+SPAC1F3.05 and AT1G76970.1 are orthologs : 
+Sens 1 : SPAC1F3.05 -> AT1G76970.1 with a evalue = 2.94724e-14
+Sens 2 : AT1G76970.1 -> SPAC1F3.05 with a evalue = 5.30941e-15
+
+###################################################################################
+
+SPAC1F3.09 and AT5G56900.2 are orthologs : 
+Sens 1 : SPAC1F3.09 -> AT5G56900.2 with a evalue = 1.50574e-43
+Sens 2 : AT5G56900.2 -> SPAC1F3.09 with a evalue = 8.70856e-44
+
+###################################################################################
+
+SPAC1F3.10c and AT5G51540.1 are orthologs : 
+Sens 1 : SPAC1F3.10c -> AT5G51540.1 with a evalue = 1.66087e-85
+Sens 2 : AT5G51540.1 -> SPAC1F3.10c with a evalue = 4.24125e-78
+
+###################################################################################
+
+SPAC1D4.03c and AT2G28390.1 are orthologs : 
+Sens 1 : SPAC1D4.03c -> AT2G28390.1 with a evalue = 1.06762e-31
+Sens 2 : AT2G28390.1 -> SPAC1D4.03c with a evalue = 1.09454e-29
+
+###################################################################################
+
+SPAC1D4.04 and AT5G20890.1 are orthologs : 
+Sens 1 : SPAC1D4.04 -> AT5G20890.1 with a evalue = 0.0
+Sens 2 : AT5G20890.1 -> SPAC1D4.04 with a evalue = 0.0
+
+###################################################################################
+
+SPAC1D4.08 and AT1G68000.1 are orthologs : 
+Sens 1 : SPAC1D4.08 -> AT1G68000.1 with a evalue = 8.69781e-39
+Sens 2 : AT1G68000.1 -> SPAC1D4.08 with a evalue = 2.49283e-44
+
+###################################################################################
+
+SPAC1D4.09c and AT5G58020.1 are orthologs : 
+Sens 1 : SPAC1D4.09c -> AT5G58020.1 with a evalue = 5.96459e-17
+Sens 2 : AT5G58020.1 -> SPAC1D4.09c with a evalue = 1.17005e-17
+
+###################################################################################
+
+SPAC1D4.10 and AT3G16260.1 are orthologs : 
+Sens 1 : SPAC1D4.10 -> AT3G16260.1 with a evalue = 6.90018e-61
+Sens 2 : AT3G16260.1 -> SPAC1D4.10 with a evalue = 3.83835e-55
+
+###################################################################################
+
+SPAC1D4.11c and AT3G53570.4 are orthologs : 
+Sens 1 : SPAC1D4.11c -> AT3G53570.4 with a evalue = 5.91971e-110
+Sens 2 : AT3G53570.4 -> SPAC1D4.11c with a evalue = 7.4292e-111
+
+###################################################################################
+
+SPAC1D4.12 and AT1G03190.2 are orthologs : 
+Sens 1 : SPAC1D4.12 -> AT1G03190.2 with a evalue = 0.0
+Sens 2 : AT1G03190.2 -> SPAC1D4.12 with a evalue = 0.0
+
+###################################################################################
+
+SPAC1D4.13 and AT4G29810.1 are orthologs : 
+Sens 1 : SPAC1D4.13 -> AT4G29810.1 with a evalue = 3.19927e-68
+Sens 2 : AT4G29810.1 -> SPAC1D4.13 with a evalue = 2.18331e-63
+
+###################################################################################
+
+SPAC1D4.14 and AT1G24706.1 are orthologs : 
+Sens 1 : SPAC1D4.14 -> AT1G24706.1 with a evalue = 5.35158e-114
+Sens 2 : AT1G24706.1 -> SPAC1D4.14 with a evalue = 3.11319e-129
+
+###################################################################################
+
+SPAC22F3.08c and AT3G09720.1 are orthologs : 
+Sens 1 : SPAC22F3.08c -> AT3G09720.1 with a evalue = 3.06715e-118
+Sens 2 : AT3G09720.1 -> SPAC22F3.08c with a evalue = 8.65999e-108
+
+###################################################################################
+
+SPAC22F3.06c and AT5G26860.1 are orthologs : 
+Sens 1 : SPAC22F3.06c -> AT5G26860.1 with a evalue = 0.0
+Sens 2 : AT5G26860.1 -> SPAC22F3.06c with a evalue = 0.0
+
+###################################################################################
+
+SPAC22F3.05c and AT2G18390.1 are orthologs : 
+Sens 1 : SPAC22F3.05c -> AT2G18390.1 with a evalue = 1.65087e-54
+Sens 2 : AT2G18390.1 -> SPAC22F3.05c with a evalue = 2.26705e-53
+
+###################################################################################
+
+SPAC22F3.02 and AT5G38800.1 are orthologs : 
+Sens 1 : SPAC22F3.02 -> AT5G38800.1 with a evalue = 0.00271266
+Sens 2 : AT5G38800.1 -> SPAC22F3.02 with a evalue = 0.000354416
+
+###################################################################################
+
+SPAC1296.02 and AT1G80230.1 are orthologs : 
+Sens 1 : SPAC1296.02 -> AT1G80230.1 with a evalue = 4.1176e-08
+Sens 2 : AT1G80230.1 -> SPAC1296.02 with a evalue = 7.10372e-09
+
+###################################################################################
+
+SPAC1296.05c and AT2G26430.1 are orthologs : 
+Sens 1 : SPAC1296.05c -> AT2G26430.1 with a evalue = 3.77676e-26
+Sens 2 : AT2G26430.1 -> SPAC1296.05c with a evalue = 4.92197e-27
+
+###################################################################################
+
+SPAC1296.06 and AT3G02280.1 are orthologs : 
+Sens 1 : SPAC1296.06 -> AT3G02280.1 with a evalue = 2.89279e-109
+Sens 2 : AT3G02280.1 -> SPAC1296.06 with a evalue = 9.87916e-104
+
+###################################################################################
+
+SPAPJ696.02 and AT3G43230.1 are orthologs : 
+Sens 1 : SPAPJ696.02 -> AT3G43230.1 with a evalue = 2.78207e-46
+Sens 2 : AT3G43230.1 -> SPAPJ696.02 with a evalue = 3.61153e-47
+
+###################################################################################
+
+SPAC22G7.01c and AT3G05350.1 are orthologs : 
+Sens 1 : SPAC22G7.01c -> AT3G05350.1 with a evalue = 0.0
+Sens 2 : AT3G05350.1 -> SPAC22G7.01c with a evalue = 0.0
+
+###################################################################################
+
+SPAC22G7.05 and AT3G24080.2 are orthologs : 
+Sens 1 : SPAC22G7.05 -> AT3G24080.2 with a evalue = 9.38776e-06
+Sens 2 : AT3G24080.2 -> SPAC22G7.05 with a evalue = 2.38003e-06
+
+###################################################################################
+
+SPAC22G7.06c and AT1G29900.1 are orthologs : 
+Sens 1 : SPAC22G7.06c -> AT1G29900.1 with a evalue = 0.0
+Sens 2 : AT1G29900.1 -> SPAC22G7.06c with a evalue = 0.0
+
+###################################################################################
+
+SPAC22G7.07c and AT1G19340.1 are orthologs : 
+Sens 1 : SPAC22G7.07c -> AT1G19340.1 with a evalue = 3.63645e-26
+Sens 2 : AT1G19340.1 -> SPAC22G7.07c with a evalue = 5.75473e-27
+
+###################################################################################
+
+SPAC22G7.10 and AT5G58040.1 are orthologs : 
+Sens 1 : SPAC22G7.10 -> AT5G58040.1 with a evalue = 9.26646e-12
+Sens 2 : AT5G58040.1 -> SPAC22G7.10 with a evalue = 3.0386e-12
+
+###################################################################################
+
+SPAC4G8.02c and AT5G50460.1 are orthologs : 
+Sens 1 : SPAC4G8.02c -> AT5G50460.1 with a evalue = 4.5596e-17
+Sens 2 : AT5G50460.1 -> SPAC4G8.02c with a evalue = 1.09517e-09
+
+###################################################################################
+
+SPAC4G8.04 and AT3G07890.2 are orthologs : 
+Sens 1 : SPAC4G8.04 -> AT3G07890.2 with a evalue = 7.31644e-42
+Sens 2 : AT3G07890.2 -> SPAC4G8.04 with a evalue = 1.25395e-42
+
+###################################################################################
+
+SPAC4G8.05 and AT5G58140.1 are orthologs : 
+Sens 1 : SPAC4G8.05 -> AT5G58140.1 with a evalue = 9.44529e-99
+Sens 2 : AT5G58140.1 -> SPAC4G8.05 with a evalue = 1.9994e-99
+
+###################################################################################
+
+SPAC4G8.07c and AT3G21300.1 are orthologs : 
+Sens 1 : SPAC4G8.07c -> AT3G21300.1 with a evalue = 5.05395e-16
+Sens 2 : AT3G21300.1 -> SPAC4G8.07c with a evalue = 7.33273e-19
+
+###################################################################################
+
+SPAC4G8.09 and AT4G04350.1 are orthologs : 
+Sens 1 : SPAC4G8.09 -> AT4G04350.1 with a evalue = 0.0
+Sens 2 : AT4G04350.1 -> SPAC4G8.09 with a evalue = 2.67472e-168
+
+###################################################################################
+
+SPAC16C9.03 and AT2G03820.1 are orthologs : 
+Sens 1 : SPAC16C9.03 -> AT2G03820.1 with a evalue = 5.41543e-138
+Sens 2 : AT2G03820.1 -> SPAC16C9.03 with a evalue = 2.35506e-131
+
+###################################################################################
+
+SPAC16C9.04c and AT3G45630.1 are orthologs : 
+Sens 1 : SPAC16C9.04c -> AT3G45630.1 with a evalue = 3.83767e-51
+Sens 2 : AT3G45630.1 -> SPAC16C9.04c with a evalue = 3.6899e-48
+
+###################################################################################
+
+SPAC16C9.06c and AT5G47010.1 are orthologs : 
+Sens 1 : SPAC16C9.06c -> AT5G47010.1 with a evalue = 0.0
+Sens 2 : AT5G47010.1 -> SPAC16C9.06c with a evalue = 0.0
+
+###################################################################################
+
+SPAC2G11.03c and AT1G77140.1 are orthologs : 
+Sens 1 : SPAC2G11.03c -> AT1G77140.1 with a evalue = 6.6506e-118
+Sens 2 : AT1G77140.1 -> SPAC2G11.03c with a evalue = 1.90049e-129
+
+###################################################################################
+
+SPAC2G11.06 and AT2G27600.1 are orthologs : 
+Sens 1 : SPAC2G11.06 -> AT2G27600.1 with a evalue = 3.14088e-142
+Sens 2 : AT2G27600.1 -> SPAC2G11.06 with a evalue = 1.337e-141
+
+###################################################################################
+
+SPAC2G11.09 and AT4G02900.1 are orthologs : 
+Sens 1 : SPAC2G11.09 -> AT4G02900.1 with a evalue = 7.10297e-42
+Sens 2 : AT4G02900.1 -> SPAC2G11.09 with a evalue = 3.90054e-39
+
+###################################################################################
+
+SPAC2G11.10c and AT5G55130.1 are orthologs : 
+Sens 1 : SPAC2G11.10c -> AT5G55130.1 with a evalue = 1.76443e-94
+Sens 2 : AT5G55130.1 -> SPAC2G11.10c with a evalue = 4.55134e-95
+
+###################################################################################
+
+SPAC2G11.12 and AT1G10930.1 are orthologs : 
+Sens 1 : SPAC2G11.12 -> AT1G10930.1 with a evalue = 7.10475e-144
+Sens 2 : AT1G10930.1 -> SPAC2G11.12 with a evalue = 2.91155e-143
+
+###################################################################################
+
+SPAC2G11.14 and AT1G32750.1 are orthologs : 
+Sens 1 : SPAC2G11.14 -> AT1G32750.1 with a evalue = 1.79216e-33
+Sens 2 : AT1G32750.1 -> SPAC2G11.14 with a evalue = 1.14836e-31
+
+###################################################################################
+
+SPAC2G11.15c and AT1G30550.2 are orthologs : 
+Sens 1 : SPAC2G11.15c -> AT1G30550.2 with a evalue = 2.13364e-50
+Sens 2 : AT1G30550.2 -> SPAC2G11.15c with a evalue = 2.54155e-51
+
+###################################################################################
+
+SPAC521.05 and AT5G59240.1 are orthologs : 
+Sens 1 : SPAC521.05 -> AT5G59240.1 with a evalue = 5.99781e-77
+Sens 2 : AT5G59240.1 -> SPAC521.05 with a evalue = 6.99877e-84
+
+###################################################################################
+
+SPAC23G3.01 and AT4G21710.1 are orthologs : 
+Sens 1 : SPAC23G3.01 -> AT4G21710.1 with a evalue = 0.0
+Sens 2 : AT4G21710.1 -> SPAC23G3.01 with a evalue = 0.0
+
+###################################################################################
+
+SPAC23G3.03 and AT4G32540.1 are orthologs : 
+Sens 1 : SPAC23G3.03 -> AT4G32540.1 with a evalue = 8.33891e-10
+Sens 2 : AT4G32540.1 -> SPAC23G3.03 with a evalue = 1.3208e-10
+
+###################################################################################
+
+SPAC23G3.06 and AT3G05060.1 are orthologs : 
+Sens 1 : SPAC23G3.06 -> AT3G05060.1 with a evalue = 1.49098e-155
+Sens 2 : AT3G05060.1 -> SPAC23G3.06 with a evalue = 3.41657e-167
+
+###################################################################################
+
+SPAC23G3.08c and AT1G04860.1 are orthologs : 
+Sens 1 : SPAC23G3.08c -> AT1G04860.1 with a evalue = 1.1089e-17
+Sens 2 : AT1G04860.1 -> SPAC23G3.08c with a evalue = 6.47988e-19
+
+###################################################################################
+
+SPAC23G3.10c and AT5G14170.1 are orthologs : 
+Sens 1 : SPAC23G3.10c -> AT5G14170.1 with a evalue = 1.14983e-61
+Sens 2 : AT5G14170.1 -> SPAC23G3.10c with a evalue = 6.92298e-48
+
+###################################################################################
+
+SPAC23G3.11 and AT1G29150.1 are orthologs : 
+Sens 1 : SPAC23G3.11 -> AT1G29150.1 with a evalue = 5.92468e-135
+Sens 2 : AT1G29150.1 -> SPAC23G3.11 with a evalue = 3.28841e-119
+
+###################################################################################
+
+SPAC22H12.03 and AT4G10030.1 are orthologs : 
+Sens 1 : SPAC22H12.03 -> AT4G10030.1 with a evalue = 1.56917e-09
+Sens 2 : AT4G10030.1 -> SPAC22H12.03 with a evalue = 8.04435e-12
+
+###################################################################################
+
+SPAC22H12.04c and AT4G34670.1 are orthologs : 
+Sens 1 : SPAC22H12.04c -> AT4G34670.1 with a evalue = 8.83713e-104
+Sens 2 : AT4G34670.1 -> SPAC22H12.04c with a evalue = 1.69236e-104
+
+###################################################################################
+
+SPAC22H12.05c and AT3G14920.1 are orthologs : 
+Sens 1 : SPAC22H12.05c -> AT3G14920.1 with a evalue = 0.00593887
+Sens 2 : AT3G14920.1 -> SPAC22H12.05c with a evalue = 0.000854403
+
+###################################################################################
+
+SPAC1687.01 and AT2G29540.2 are orthologs : 
+Sens 1 : SPAC1687.01 -> AT2G29540.2 with a evalue = 4.50611e-12
+Sens 2 : AT2G29540.2 -> SPAC1687.01 with a evalue = 7.2938e-13
+
+###################################################################################
+
+SPAC1687.02 and AT2G36305.1 are orthologs : 
+Sens 1 : SPAC1687.02 -> AT2G36305.1 with a evalue = 4.62615e-25
+Sens 2 : AT2G36305.1 -> SPAC1687.02 with a evalue = 9.22177e-26
+
+###################################################################################
+
+SPAC1687.03c and AT1G63160.1 are orthologs : 
+Sens 1 : SPAC1687.03c -> AT1G63160.1 with a evalue = 6.75194e-147
+Sens 2 : AT1G63160.1 -> SPAC1687.03c with a evalue = 3.33048e-148
+
+###################################################################################
+
+SPAC1687.04 and AT2G40550.1 are orthologs : 
+Sens 1 : SPAC1687.04 -> AT2G40550.1 with a evalue = 2.97314e-23
+Sens 2 : AT2G40550.1 -> SPAC1687.04 with a evalue = 4.58563e-30
+
+###################################################################################
+
+SPAC1687.05 and AT5G41580.1 are orthologs : 
+Sens 1 : SPAC1687.05 -> AT5G41580.1 with a evalue = 1.10153e-20
+Sens 2 : AT5G41580.1 -> SPAC1687.05 with a evalue = 1.98082e-21
+
+###################################################################################
+
+SPAC1687.06c and AT2G19730.3 are orthologs : 
+Sens 1 : SPAC1687.06c -> AT2G19730.3 with a evalue = 4.99486e-16
+Sens 2 : AT2G19730.3 -> SPAC1687.06c with a evalue = 8.82953e-17
+
+###################################################################################
+
+SPAC1687.11 and AT4G25730.1 are orthologs : 
+Sens 1 : SPAC1687.11 -> AT4G25730.1 with a evalue = 1.35804e-100
+Sens 2 : AT4G25730.1 -> SPAC1687.11 with a evalue = 1.84111e-100
+
+###################################################################################
+
+SPAC1687.12c and AT2G03690.1 are orthologs : 
+Sens 1 : SPAC1687.12c -> AT2G03690.1 with a evalue = 5.05021e-45
+Sens 2 : AT2G03690.1 -> SPAC1687.12c with a evalue = 3.25829e-48
+
+###################################################################################
+
+SPAC1687.13c and AT1G71230.1 are orthologs : 
+Sens 1 : SPAC1687.13c -> AT1G71230.1 with a evalue = 8.60166e-81
+Sens 2 : AT1G71230.1 -> SPAC1687.13c with a evalue = 1.69888e-81
+
+###################################################################################
+
+SPAC1687.15 and AT1G09840.6 are orthologs : 
+Sens 1 : SPAC1687.15 -> AT1G09840.6 with a evalue = 4.60792e-148
+Sens 2 : AT1G09840.6 -> SPAC1687.15 with a evalue = 6.51412e-158
+
+###################################################################################
+
+SPAC1687.16c and AT3G02590.1 are orthologs : 
+Sens 1 : SPAC1687.16c -> AT3G02590.1 with a evalue = 5.44482e-19
+Sens 2 : AT3G02590.1 -> SPAC1687.16c with a evalue = 7.23549e-23
+
+###################################################################################
+
+SPAC1687.17c and AT4G04860.1 are orthologs : 
+Sens 1 : SPAC1687.17c -> AT4G04860.1 with a evalue = 1.96241e-22
+Sens 2 : AT4G04860.1 -> SPAC1687.17c with a evalue = 2.30107e-19
+
+###################################################################################
+
+SPAC1687.21 and AT3G50520.1 are orthologs : 
+Sens 1 : SPAC1687.21 -> AT3G50520.1 with a evalue = 4.656e-12
+Sens 2 : AT3G50520.1 -> SPAC1687.21 with a evalue = 9.84385e-18
+
+###################################################################################
+
+SPAC1687.22c and AT2G29140.1 are orthologs : 
+Sens 1 : SPAC1687.22c -> AT2G29140.1 with a evalue = 4.20335e-107
+Sens 2 : AT2G29140.1 -> SPAC1687.22c with a evalue = 7.17988e-108
+
+###################################################################################
+
+SPAC222.03c and AT2G29530.2 are orthologs : 
+Sens 1 : SPAC222.03c -> AT2G29530.2 with a evalue = 1.8218e-16
+Sens 2 : AT2G29530.2 -> SPAC222.03c with a evalue = 2.82844e-17
+
+###################################################################################
+
+SPAC222.04c and AT4G38495.1 are orthologs : 
+Sens 1 : SPAC222.04c -> AT4G38495.1 with a evalue = 4.65731e-15
+Sens 2 : AT4G38495.1 -> SPAC222.04c with a evalue = 4.46888e-19
+
+###################################################################################
+
+SPAC222.05c and AT1G78010.1 are orthologs : 
+Sens 1 : SPAC222.05c -> AT1G78010.1 with a evalue = 3.46193e-41
+Sens 2 : AT1G78010.1 -> SPAC222.05c with a evalue = 4.20703e-41
+
+###################################################################################
+
+SPAC222.06 and AT1G23280.1 are orthologs : 
+Sens 1 : SPAC222.06 -> AT1G23280.1 with a evalue = 3.25557e-75
+Sens 2 : AT1G23280.1 -> SPAC222.06 with a evalue = 5.56894e-76
+
+###################################################################################
+
+SPAC222.08c and AT5G60540.1 are orthologs : 
+Sens 1 : SPAC222.08c -> AT5G60540.1 with a evalue = 6.44594e-41
+Sens 2 : AT5G60540.1 -> SPAC222.08c with a evalue = 1.16002e-41
+
+###################################################################################
+
+SPAC222.11 and AT1G03475.1 are orthologs : 
+Sens 1 : SPAC222.11 -> AT1G03475.1 with a evalue = 4.75803e-109
+Sens 2 : AT1G03475.1 -> SPAC222.11 with a evalue = 9.70823e-110
+
+###################################################################################
+
+SPAC222.12c and AT5G08690.1 are orthologs : 
+Sens 1 : SPAC222.12c -> AT5G08690.1 with a evalue = 0.0
+Sens 2 : AT5G08690.1 -> SPAC222.12c with a evalue = 0.0
+
+###################################################################################
+
+SPAC222.14c and AT5G45160.1 are orthologs : 
+Sens 1 : SPAC222.14c -> AT5G45160.1 with a evalue = 1.40028e-78
+Sens 2 : AT5G45160.1 -> SPAC222.14c with a evalue = 2.22828e-82
+
+###################################################################################
+
+SPAC222.15 and AT1G13330.1 are orthologs : 
+Sens 1 : SPAC222.15 -> AT1G13330.1 with a evalue = 9.97396e-21
+Sens 2 : AT1G13330.1 -> SPAC222.15 with a evalue = 4.08333e-13
+
+###################################################################################
+
+SPAC821.05 and AT1G10840.1 are orthologs : 
+Sens 1 : SPAC821.05 -> AT1G10840.1 with a evalue = 1.47069e-32
+Sens 2 : AT1G10840.1 -> SPAC821.05 with a evalue = 1.04719e-38
+
+###################################################################################
+
+SPAC821.08c and AT4G33260.1 are orthologs : 
+Sens 1 : SPAC821.08c -> AT4G33260.1 with a evalue = 1.23286e-109
+Sens 2 : AT4G33260.1 -> SPAC821.08c with a evalue = 1.1086e-110
+
+###################################################################################
+
+SPAC821.09 and AT5G15870.1 are orthologs : 
+Sens 1 : SPAC821.09 -> AT5G15870.1 with a evalue = 1.00627e-32
+Sens 2 : AT5G15870.1 -> SPAC821.09 with a evalue = 4.06494e-28
+
+###################################################################################
+
+SPAC821.10c and AT2G28190.1 are orthologs : 
+Sens 1 : SPAC821.10c -> AT2G28190.1 with a evalue = 1.3884e-46
+Sens 2 : AT2G28190.1 -> SPAC821.10c with a evalue = 8.62715e-43
+
+###################################################################################
+
+SPAC821.11 and AT2G39800.2 are orthologs : 
+Sens 1 : SPAC821.11 -> AT2G39800.2 with a evalue = 6.66918e-103
+Sens 2 : AT2G39800.2 -> SPAC821.11 with a evalue = 2.1532e-94
+
+###################################################################################
+
+SPAC821.12 and AT1G30640.1 are orthologs : 
+Sens 1 : SPAC821.12 -> AT1G30640.1 with a evalue = 8.59979e-142
+Sens 2 : AT1G30640.1 -> SPAC821.12 with a evalue = 1.81142e-145
+
+###################################################################################
+
+SPAC139.02c and AT2G22500.1 are orthologs : 
+Sens 1 : SPAC139.02c -> AT2G22500.1 with a evalue = 1.3008e-36
+Sens 2 : AT2G22500.1 -> SPAC139.02c with a evalue = 8.8923e-35
+
+###################################################################################
+
+SPAC139.06 and AT5G56740.1 are orthologs : 
+Sens 1 : SPAC139.06 -> AT5G56740.1 with a evalue = 1.90202e-22
+Sens 2 : AT5G56740.1 -> SPAC139.06 with a evalue = 6.50217e-22
+
+###################################################################################
+
+SPAC23C4.03 and AT1G09450.1 are orthologs : 
+Sens 1 : SPAC23C4.03 -> AT1G09450.1 with a evalue = 1.9216e-38
+Sens 2 : AT1G09450.1 -> SPAC23C4.03 with a evalue = 7.31165e-39
+
+###################################################################################
+
+SPAC23C4.04c and AT1G56060.1 are orthologs : 
+Sens 1 : SPAC23C4.04c -> AT1G56060.1 with a evalue = 0.00233605
+Sens 2 : AT1G56060.1 -> SPAC23C4.04c with a evalue = 0.000197626
+
+###################################################################################
+
+SPAC23C4.06c and AT1G73320.1 are orthologs : 
+Sens 1 : SPAC23C4.06c -> AT1G73320.1 with a evalue = 1.72699e-12
+Sens 2 : AT1G73320.1 -> SPAC23C4.06c with a evalue = 2.67781e-13
+
+###################################################################################
+
+SPAC23C4.09c and AT1G29850.1 are orthologs : 
+Sens 1 : SPAC23C4.09c -> AT1G29850.1 with a evalue = 7.23857e-16
+Sens 2 : AT1G29850.1 -> SPAC23C4.09c with a evalue = 5.12338e-22
+
+###################################################################################
+
+SPAC23C4.14 and AT1G16570.1 are orthologs : 
+Sens 1 : SPAC23C4.14 -> AT1G16570.1 with a evalue = 1.56593e-88
+Sens 2 : AT1G16570.1 -> SPAC23C4.14 with a evalue = 1.28303e-83
+
+###################################################################################
+
+SPAC23C4.15 and AT3G22320.1 are orthologs : 
+Sens 1 : SPAC23C4.15 -> AT3G22320.1 with a evalue = 4.57567e-58
+Sens 2 : AT3G22320.1 -> SPAC23C4.15 with a evalue = 7.38346e-59
+
+###################################################################################
+
+SPAC23C4.16c and AT5G24230.1 are orthologs : 
+Sens 1 : SPAC23C4.16c -> AT5G24230.1 with a evalue = 0.00389393
+Sens 2 : AT5G24230.1 -> SPAC23C4.16c with a evalue = 0.000481468
+
+###################################################################################
+
+SPAC23C4.17 and AT2G22400.1 are orthologs : 
+Sens 1 : SPAC23C4.17 -> AT2G22400.1 with a evalue = 4.32818e-116
+Sens 2 : AT2G22400.1 -> SPAC23C4.17 with a evalue = 3.59396e-122
+
+###################################################################################
+
+SPAC23C4.18c and AT1G77320.1 are orthologs : 
+Sens 1 : SPAC23C4.18c -> AT1G77320.1 with a evalue = 1.02177e-14
+Sens 2 : AT1G77320.1 -> SPAC23C4.18c with a evalue = 2.7507e-15
+
+###################################################################################
+
+SPAC23C4.19 and AT2G34210.1 are orthologs : 
+Sens 1 : SPAC23C4.19 -> AT2G34210.1 with a evalue = 1.17207e-64
+Sens 2 : AT2G34210.1 -> SPAC23C4.19 with a evalue = 1.27496e-68
+
+###################################################################################
+
+SPAC1A6.01c and AT3G47610.1 are orthologs : 
+Sens 1 : SPAC1A6.01c -> AT3G47610.1 with a evalue = 5.44798e-10
+Sens 2 : AT3G47610.1 -> SPAC1A6.01c with a evalue = 3.39385e-08
+
+###################################################################################
+
+SPAC1A6.02 and AT2G34260.1 are orthologs : 
+Sens 1 : SPAC1A6.02 -> AT2G34260.1 with a evalue = 8.27074e-27
+Sens 2 : AT2G34260.1 -> SPAC1A6.02 with a evalue = 9.97713e-28
+
+###################################################################################
+
+SPAC1A6.05c and AT3G57140.2 are orthologs : 
+Sens 1 : SPAC1A6.05c -> AT3G57140.2 with a evalue = 6.07934e-63
+Sens 2 : AT3G57140.2 -> SPAC1A6.05c with a evalue = 1.16617e-63
+
+###################################################################################
+
+SPAC1A6.09c and AT1G13580.1 are orthologs : 
+Sens 1 : SPAC1A6.09c -> AT1G13580.1 with a evalue = 1.75049e-15
+Sens 2 : AT1G13580.1 -> SPAC1A6.09c with a evalue = 1.98866e-16
+
+###################################################################################
+
+SPAC1A6.10 and AT5G37530.2 are orthologs : 
+Sens 1 : SPAC1A6.10 -> AT5G37530.2 with a evalue = 2.34764e-72
+Sens 2 : AT5G37530.2 -> SPAC1A6.10 with a evalue = 2.3554e-74
+
+###################################################################################
+
+SPAC30D11.14c and AT3G29390.1 are orthologs : 
+Sens 1 : SPAC30D11.14c -> AT3G29390.1 with a evalue = 5.50829e-13
+Sens 2 : AT3G29390.1 -> SPAC30D11.14c with a evalue = 1.22274e-13
+
+###################################################################################
+
+SPAC30D11.13 and AT3G57870.1 are orthologs : 
+Sens 1 : SPAC30D11.13 -> AT3G57870.1 with a evalue = 4.59002e-60
+Sens 2 : AT3G57870.1 -> SPAC30D11.13 with a evalue = 1.87452e-70
+
+###################################################################################
+
+SPAC30D11.09 and AT1G56290.1 are orthologs : 
+Sens 1 : SPAC30D11.09 -> AT1G56290.1 with a evalue = 1.2812e-36
+Sens 2 : AT1G56290.1 -> SPAC30D11.09 with a evalue = 4.39841e-37
+
+###################################################################################
+
+SPAC30D11.07 and AT2G31450.1 are orthologs : 
+Sens 1 : SPAC30D11.07 -> AT2G31450.1 with a evalue = 3.67684e-70
+Sens 2 : AT2G31450.1 -> SPAC30D11.07 with a evalue = 1.24494e-56
+
+###################################################################################
+
+SPAC30D11.06c and AT3G05940.1 are orthologs : 
+Sens 1 : SPAC30D11.06c -> AT3G05940.1 with a evalue = 1.97677e-37
+Sens 2 : AT3G05940.1 -> SPAC30D11.06c with a evalue = 9.14364e-33
+
+###################################################################################
+
+SPAC30D11.05 and AT3G50860.1 are orthologs : 
+Sens 1 : SPAC30D11.05 -> AT3G50860.1 with a evalue = 3.37777e-46
+Sens 2 : AT3G50860.1 -> SPAC30D11.05 with a evalue = 5.62367e-47
+
+###################################################################################
+
+SPAC30D11.03 and AT4G16630.1 are orthologs : 
+Sens 1 : SPAC30D11.03 -> AT4G16630.1 with a evalue = 1.11538e-134
+Sens 2 : AT4G16630.1 -> SPAC30D11.03 with a evalue = 1.42691e-135
+
+###################################################################################
+
+SPAC56F8.03 and AT1G76810.1 are orthologs : 
+Sens 1 : SPAC56F8.03 -> AT1G76810.1 with a evalue = 0.0
+Sens 2 : AT1G76810.1 -> SPAC56F8.03 with a evalue = 0.0
+
+###################################################################################
+
+SPAC56F8.04c and AT4G23660.2 are orthologs : 
+Sens 1 : SPAC56F8.04c -> AT4G23660.2 with a evalue = 4.55954e-62
+Sens 2 : AT4G23660.2 -> SPAC56F8.04c with a evalue = 4.85454e-58
+
+###################################################################################
+
+SPAC56F8.06c and AT5G02410.1 are orthologs : 
+Sens 1 : SPAC56F8.06c -> AT5G02410.1 with a evalue = 1.3395e-24
+Sens 2 : AT5G02410.1 -> SPAC56F8.06c with a evalue = 1.3246e-25
+
+###################################################################################
+
+SPAC56F8.08 and AT3G13235.3 are orthologs : 
+Sens 1 : SPAC56F8.08 -> AT3G13235.3 with a evalue = 1.669e-63
+Sens 2 : AT3G13235.3 -> SPAC56F8.08 with a evalue = 4.28504e-67
+
+###################################################################################
+
+SPAC56F8.09 and AT5G40530.1 are orthologs : 
+Sens 1 : SPAC56F8.09 -> AT5G40530.1 with a evalue = 1.03738e-62
+Sens 2 : AT5G40530.1 -> SPAC56F8.09 with a evalue = 2.37951e-58
+
+###################################################################################
+
+SPAC56F8.10 and AT3G59970.3 are orthologs : 
+Sens 1 : SPAC56F8.10 -> AT3G59970.3 with a evalue = 4.88487e-169
+Sens 2 : AT3G59970.3 -> SPAC56F8.10 with a evalue = 7.90218e-170
+
+###################################################################################
+
+SPAC56F8.11 and AT3G05230.1 are orthologs : 
+Sens 1 : SPAC56F8.11 -> AT3G05230.1 with a evalue = 1.01978e-15
+Sens 2 : AT3G05230.1 -> SPAC56F8.11 with a evalue = 1.53148e-14
+
+###################################################################################
+
+SPAC56F8.16 and AT2G46970.1 are orthologs : 
+Sens 1 : SPAC56F8.16 -> AT2G46970.1 with a evalue = 0.00628274
+Sens 2 : AT2G46970.1 -> SPAC56F8.16 with a evalue = 0.000781897
+
+###################################################################################
+
+SPAC22A12.01c and AT3G26680.3 are orthologs : 
+Sens 1 : SPAC22A12.01c -> AT3G26680.3 with a evalue = 6.37037e-74
+Sens 2 : AT3G26680.3 -> SPAC22A12.01c with a evalue = 2.18242e-73
+
+###################################################################################
+
+SPAC22A12.05 and AT4G07950.1 are orthologs : 
+Sens 1 : SPAC22A12.05 -> AT4G07950.1 with a evalue = 3.19623e-21
+Sens 2 : AT4G07950.1 -> SPAC22A12.05 with a evalue = 5.16122e-22
+
+###################################################################################
+
+SPAC22A12.08c and AT3G45740.1 are orthologs : 
+Sens 1 : SPAC22A12.08c -> AT3G45740.1 with a evalue = 4.73761e-49
+Sens 2 : AT3G45740.1 -> SPAC22A12.08c with a evalue = 8.89505e-46
+
+###################################################################################
+
+SPAC22A12.10 and AT1G13560.1 are orthologs : 
+Sens 1 : SPAC22A12.10 -> AT1G13560.1 with a evalue = 4.14641e-55
+Sens 2 : AT1G13560.1 -> SPAC22A12.10 with a evalue = 1.24868e-54
+
+###################################################################################
+
+SPAC22A12.09c and AT1G14650.2 are orthologs : 
+Sens 1 : SPAC22A12.09c -> AT1G14650.2 with a evalue = 3.92374e-40
+Sens 2 : AT1G14650.2 -> SPAC22A12.09c with a evalue = 3.10074e-41
+
+###################################################################################
+
+SPAC22A12.12c and AT4G32175.1 are orthologs : 
+Sens 1 : SPAC22A12.12c -> AT4G32175.1 with a evalue = 7.18566e-41
+Sens 2 : AT4G32175.1 -> SPAC22A12.12c with a evalue = 1.19187e-41
+
+###################################################################################
+
+SPAC22A12.13 and AT2G39445.1 are orthologs : 
+Sens 1 : SPAC22A12.13 -> AT2G39445.1 with a evalue = 8.04084e-11
+Sens 2 : AT2G39445.1 -> SPAC22A12.13 with a evalue = 1.08175e-11
+
+###################################################################################
+
+SPAC22A12.14c and AT1G03350.1 are orthologs : 
+Sens 1 : SPAC22A12.14c -> AT1G03350.1 with a evalue = 1.34273e-08
+Sens 2 : AT1G03350.1 -> SPAC22A12.14c with a evalue = 2.50755e-09
+
+###################################################################################
+
+SPAC22A12.17c and AT2G29370.1 are orthologs : 
+Sens 1 : SPAC22A12.17c -> AT2G29370.1 with a evalue = 2.81014e-26
+Sens 2 : AT2G29370.1 -> SPAC22A12.17c with a evalue = 9.40574e-33
+
+###################################################################################
+
+SPAC22A12.16 and AT1G60810.1 are orthologs : 
+Sens 1 : SPAC22A12.16 -> AT1G60810.1 with a evalue = 6.97051e-104
+Sens 2 : AT1G60810.1 -> SPAC22A12.16 with a evalue = 5.29331e-93
+
+###################################################################################
+
+SPAC4C5.02c and AT2G44610.1 are orthologs : 
+Sens 1 : SPAC4C5.02c -> AT2G44610.1 with a evalue = 7.43154e-105
+Sens 2 : AT2G44610.1 -> SPAC4C5.02c with a evalue = 1.27112e-105
+
+###################################################################################
+
+SPAC4C5.04 and AT5G50580.2 are orthologs : 
+Sens 1 : SPAC4C5.04 -> AT5G50580.2 with a evalue = 1.1879e-28
+Sens 2 : AT5G50580.2 -> SPAC4C5.04 with a evalue = 2.93135e-25
+
+###################################################################################
+
+SPAC10F6.01c and AT5G04590.1 are orthologs : 
+Sens 1 : SPAC10F6.01c -> AT5G04590.1 with a evalue = 3.11311e-113
+Sens 2 : AT5G04590.1 -> SPAC10F6.01c with a evalue = 6.58513e-106
+
+###################################################################################
+
+SPAC10F6.02c and AT3G26560.1 are orthologs : 
+Sens 1 : SPAC10F6.02c -> AT3G26560.1 with a evalue = 0.0
+Sens 2 : AT3G26560.1 -> SPAC10F6.02c with a evalue = 0.0
+
+###################################################################################
+
+SPAC10F6.03c and AT1G30820.1 are orthologs : 
+Sens 1 : SPAC10F6.03c -> AT1G30820.1 with a evalue = 0.0
+Sens 2 : AT1G30820.1 -> SPAC10F6.03c with a evalue = 0.0
+
+###################################################################################
+
+SPAC10F6.05c and AT1G17280.2 are orthologs : 
+Sens 1 : SPAC10F6.05c -> AT1G17280.2 with a evalue = 9.60408e-55
+Sens 2 : AT1G17280.2 -> SPAC10F6.05c with a evalue = 1.01273e-54
+
+###################################################################################
+
+SPAC10F6.06 and AT1G14340.1 are orthologs : 
+Sens 1 : SPAC10F6.06 -> AT1G14340.1 with a evalue = 6.19043e-09
+Sens 2 : AT1G14340.1 -> SPAC10F6.06 with a evalue = 9.88587e-12
+
+###################################################################################
+
+SPAC10F6.09c and AT2G27170.2 are orthologs : 
+Sens 1 : SPAC10F6.09c -> AT2G27170.2 with a evalue = 0.0
+Sens 2 : AT2G27170.2 -> SPAC10F6.09c with a evalue = 0.0
+
+###################################################################################
+
+SPAC10F6.10 and AT2G24990.1 are orthologs : 
+Sens 1 : SPAC10F6.10 -> AT2G24990.1 with a evalue = 4.3086e-100
+Sens 2 : AT2G24990.1 -> SPAC10F6.10 with a evalue = 1.15302e-100
+
+###################################################################################
+
+SPAC10F6.12c and AT5G08335.1 are orthologs : 
+Sens 1 : SPAC10F6.12c -> AT5G08335.1 with a evalue = 1.25732e-40
+Sens 2 : AT5G08335.1 -> SPAC10F6.12c with a evalue = 1.49206e-41
+
+###################################################################################
+
+SPAC10F6.17c and AT4G38520.2 are orthologs : 
+Sens 1 : SPAC10F6.17c -> AT4G38520.2 with a evalue = 1.01621e-17
+Sens 2 : AT4G38520.2 -> SPAC10F6.17c with a evalue = 5.53126e-22
+
+###################################################################################
+
+SPAC56E4.02c and AT4G16710.2 are orthologs : 
+Sens 1 : SPAC56E4.02c -> AT4G16710.2 with a evalue = 1.30702e-26
+Sens 2 : AT4G16710.2 -> SPAC56E4.02c with a evalue = 2.34908e-27
+
+###################################################################################
+
+SPAC56E4.04c and AT1G36160.2 are orthologs : 
+Sens 1 : SPAC56E4.04c -> AT1G36160.2 with a evalue = 0.0
+Sens 2 : AT1G36160.2 -> SPAC56E4.04c with a evalue = 0.0
+
+###################################################################################
+
+SPAC1420.02c and AT1G24510.1 are orthologs : 
+Sens 1 : SPAC1420.02c -> AT1G24510.1 with a evalue = 0.0
+Sens 2 : AT1G24510.1 -> SPAC1420.02c with a evalue = 0.0
+
+###################################################################################
+
+SPAC1420.04c and AT1G02410.1 are orthologs : 
+Sens 1 : SPAC1420.04c -> AT1G02410.1 with a evalue = 2.24082e-58
+Sens 2 : AT1G02410.1 -> SPAC1420.04c with a evalue = 1.42428e-59
+
+###################################################################################
+
+SPAPB17E12.03 and AT3G04460.1 are orthologs : 
+Sens 1 : SPAPB17E12.03 -> AT3G04460.1 with a evalue = 1.20931e-05
+Sens 2 : AT3G04460.1 -> SPAPB17E12.03 with a evalue = 0.000106235
+
+###################################################################################
+
+SPAPB17E12.04c and AT2G26990.1 are orthologs : 
+Sens 1 : SPAPB17E12.04c -> AT2G26990.1 with a evalue = 3.9018e-132
+Sens 2 : AT2G26990.1 -> SPAPB17E12.04c with a evalue = 1.10519e-129
+
+###################################################################################
+
+SPAPB17E12.05 and AT1G52300.1 are orthologs : 
+Sens 1 : SPAPB17E12.05 -> AT1G52300.1 with a evalue = 7.71844e-29
+Sens 2 : AT1G52300.1 -> SPAPB17E12.05 with a evalue = 1.80386e-37
+
+###################################################################################
+
+SPAPB17E12.07c and AT3G45590.2 are orthologs : 
+Sens 1 : SPAPB17E12.07c -> AT3G45590.2 with a evalue = 1.17509e-13
+Sens 2 : AT3G45590.2 -> SPAPB17E12.07c with a evalue = 1.18778e-14
+
+###################################################################################
+
+SPAPB17E12.11 and AT1G61790.1 are orthologs : 
+Sens 1 : SPAPB17E12.11 -> AT1G61790.1 with a evalue = 0.00124402
+Sens 2 : AT1G61790.1 -> SPAPB17E12.11 with a evalue = 0.000185527
+
+###################################################################################
+
+SPAPB17E12.12c and AT4G01100.1 are orthologs : 
+Sens 1 : SPAPB17E12.12c -> AT4G01100.1 with a evalue = 2.58234e-46
+Sens 2 : AT4G01100.1 -> SPAPB17E12.12c with a evalue = 6.72731e-51
+
+###################################################################################
+
+SPAPB17E12.13 and AT3G05590.1 are orthologs : 
+Sens 1 : SPAPB17E12.13 -> AT3G05590.1 with a evalue = 2.50971e-73
+Sens 2 : AT3G05590.1 -> SPAPB17E12.13 with a evalue = 4.15047e-74
+
+###################################################################################
+
+SPAC1565.04c and AT5G23680.1 are orthologs : 
+Sens 1 : SPAC1565.04c -> AT5G23680.1 with a evalue = 0.00180906
+Sens 2 : AT5G23680.1 -> SPAC1565.04c with a evalue = 0.000816049
+
+###################################################################################
+
+SPAC1565.06c and AT5G54840.1 are orthologs : 
+Sens 1 : SPAC1565.06c -> AT5G54840.1 with a evalue = 2.32484e-59
+Sens 2 : AT5G54840.1 -> SPAC1565.06c with a evalue = 4.9189e-61
+
+###################################################################################
+
+SPAC1565.07c and AT2G02560.2 are orthologs : 
+Sens 1 : SPAC1565.07c -> AT2G02560.2 with a evalue = 3.21096e-12
+Sens 2 : AT2G02560.2 -> SPAC1565.07c with a evalue = 1.55376e-14
+
+###################################################################################
+
+SPAC1565.08 and AT5G03340.1 are orthologs : 
+Sens 1 : SPAC1565.08 -> AT5G03340.1 with a evalue = 0.0
+Sens 2 : AT5G03340.1 -> SPAC1565.08 with a evalue = 0.0
+
+###################################################################################
+
+SPAC6F12.02 and AT2G01940.2 are orthologs : 
+Sens 1 : SPAC6F12.02 -> AT2G01940.2 with a evalue = 6.81133e-05
+Sens 2 : AT2G01940.2 -> SPAC6F12.02 with a evalue = 1.15328e-05
+
+###################################################################################
+
+SPAC6F12.05c and AT5G19460.1 are orthologs : 
+Sens 1 : SPAC6F12.05c -> AT5G19460.1 with a evalue = 5.44339e-33
+Sens 2 : AT5G19460.1 -> SPAC6F12.05c with a evalue = 4.15154e-34
+
+###################################################################################
+
+SPAC6F12.06 and AT3G07880.1 are orthologs : 
+Sens 1 : SPAC6F12.06 -> AT3G07880.1 with a evalue = 1.07682e-30
+Sens 2 : AT3G07880.1 -> SPAC6F12.06 with a evalue = 2.0824e-31
+
+###################################################################################
+
+SPAC6F12.09 and AT1G14790.1 are orthologs : 
+Sens 1 : SPAC6F12.09 -> AT1G14790.1 with a evalue = 1.29682e-101
+Sens 2 : AT1G14790.1 -> SPAC6F12.09 with a evalue = 1.67331e-97
+
+###################################################################################
+
+SPAC6F12.10c and AT1G74260.1 are orthologs : 
+Sens 1 : SPAC6F12.10c -> AT1G74260.1 with a evalue = 0.0
+Sens 2 : AT1G74260.1 -> SPAC6F12.10c with a evalue = 0.0
+
+###################################################################################
+
+SPAC6F12.11c and AT5G24450.1 are orthologs : 
+Sens 1 : SPAC6F12.11c -> AT5G24450.1 with a evalue = 4.73762e-15
+Sens 2 : AT5G24450.1 -> SPAC6F12.11c with a evalue = 1.16377e-15
+
+###################################################################################
+
+SPAC6F12.13c and AT4G17190.1 are orthologs : 
+Sens 1 : SPAC6F12.13c -> AT4G17190.1 with a evalue = 9.66476e-101
+Sens 2 : AT4G17190.1 -> SPAC6F12.13c with a evalue = 2.70396e-105
+
+###################################################################################
+
+SPAC6F12.14 and AT3G48150.1 are orthologs : 
+Sens 1 : SPAC6F12.14 -> AT3G48150.1 with a evalue = 6.91315e-116
+Sens 2 : AT3G48150.1 -> SPAC6F12.14 with a evalue = 3.5991e-118
+
+###################################################################################
+
+SPAC6F12.15c and AT1G78770.1 are orthologs : 
+Sens 1 : SPAC6F12.15c -> AT1G78770.1 with a evalue = 3.02867e-92
+Sens 2 : AT1G78770.1 -> SPAC6F12.15c with a evalue = 4.62249e-86
+
+###################################################################################
+
+SPAC6F12.16c and AT1G59760.1 are orthologs : 
+Sens 1 : SPAC6F12.16c -> AT1G59760.1 with a evalue = 0.0
+Sens 2 : AT1G59760.1 -> SPAC6F12.16c with a evalue = 0.0
+
+###################################################################################
+
+SPAC6F12.17 and AT1G17760.1 are orthologs : 
+Sens 1 : SPAC6F12.17 -> AT1G17760.1 with a evalue = 7.20633e-87
+Sens 2 : AT1G17760.1 -> SPAC6F12.17 with a evalue = 2.09191e-84
+
+###################################################################################
+
+SPAC19E9.01c and AT3G16310.1 are orthologs : 
+Sens 1 : SPAC19E9.01c -> AT3G16310.1 with a evalue = 1.76873e-06
+Sens 2 : AT3G16310.1 -> SPAC19E9.01c with a evalue = 0.00137524
+
+###################################################################################
+
+SPAC57A10.03 and AT2G36130.1 are orthologs : 
+Sens 1 : SPAC57A10.03 -> AT2G36130.1 with a evalue = 1.04194e-64
+Sens 2 : AT2G36130.1 -> SPAC57A10.03 with a evalue = 2.88917e-65
+
+###################################################################################
+
+SPAC57A10.14 and AT5G58575.1 are orthologs : 
+Sens 1 : SPAC57A10.14 -> AT5G58575.1 with a evalue = 1.58955e-06
+Sens 2 : AT5G58575.1 -> SPAC57A10.14 with a evalue = 4.81493e-06
+
+###################################################################################
+
+SPAC57A10.07 and AT1G21370.2 are orthologs : 
+Sens 1 : SPAC57A10.07 -> AT1G21370.2 with a evalue = 2.02226e-57
+Sens 2 : AT1G21370.2 -> SPAC57A10.07 with a evalue = 5.88143e-64
+
+###################################################################################
+
+SPAC57A10.08c and AT5G19850.1 are orthologs : 
+Sens 1 : SPAC57A10.08c -> AT5G19850.1 with a evalue = 0.0037007
+Sens 2 : AT5G19850.1 -> SPAC57A10.08c with a evalue = 5.46299e-06
+
+###################################################################################
+
+SPAC57A10.10c and AT4G32720.2 are orthologs : 
+Sens 1 : SPAC57A10.10c -> AT4G32720.2 with a evalue = 4.57199e-14
+Sens 2 : AT4G32720.2 -> SPAC57A10.10c with a evalue = 1.10131e-14
+
+###################################################################################
+
+SPAC57A10.11c and AT5G23395.1 are orthologs : 
+Sens 1 : SPAC57A10.11c -> AT5G23395.1 with a evalue = 1.37683e-12
+Sens 2 : AT5G23395.1 -> SPAC57A10.11c with a evalue = 4.59423e-13
+
+###################################################################################
+
+SPAC57A10.12c and AT5G23300.1 are orthologs : 
+Sens 1 : SPAC57A10.12c -> AT5G23300.1 with a evalue = 4.53388e-86
+Sens 2 : AT5G23300.1 -> SPAC57A10.12c with a evalue = 1.27922e-100
+
+###################################################################################
+
+SPAC20G8.01 and AT1G08130.1 are orthologs : 
+Sens 1 : SPAC20G8.01 -> AT1G08130.1 with a evalue = 0.0
+Sens 2 : AT1G08130.1 -> SPAC20G8.01 with a evalue = 0.0
+
+###################################################################################
+
+SPAC20G8.02 and AT1G31480.1 are orthologs : 
+Sens 1 : SPAC20G8.02 -> AT1G31480.1 with a evalue = 1.46484e-20
+Sens 2 : AT1G31480.1 -> SPAC20G8.02 with a evalue = 4.25781e-20
+
+###################################################################################
+
+SPAC20G8.04c and AT2G43400.1 are orthologs : 
+Sens 1 : SPAC20G8.04c -> AT2G43400.1 with a evalue = 0.0
+Sens 2 : AT2G43400.1 -> SPAC20G8.04c with a evalue = 0.0
+
+###################################################################################
+
+SPAC20G8.06 and AT1G02080.2 are orthologs : 
+Sens 1 : SPAC20G8.06 -> AT1G02080.2 with a evalue = 7.70324e-70
+Sens 2 : AT1G02080.2 -> SPAC20G8.06 with a evalue = 3.77152e-74
+
+###################################################################################
+
+SPAC20G8.09c and AT1G10490.1 are orthologs : 
+Sens 1 : SPAC20G8.09c -> AT1G10490.1 with a evalue = 0.0
+Sens 2 : AT1G10490.1 -> SPAC20G8.09c with a evalue = 0.0
+
+###################################################################################
+
+SPAC20G8.10c and AT3G61710.1 are orthologs : 
+Sens 1 : SPAC20G8.10c -> AT3G61710.1 with a evalue = 4.51125e-33
+Sens 2 : AT3G61710.1 -> SPAC20G8.10c with a evalue = 5.12271e-40
+
+###################################################################################
+
+SPAC3A12.04c and AT5G59980.1 are orthologs : 
+Sens 1 : SPAC3A12.04c -> AT5G59980.1 with a evalue = 7.08144e-28
+Sens 2 : AT5G59980.1 -> SPAC3A12.04c with a evalue = 2.88492e-28
+
+###################################################################################
+
+SPAC3A12.05c and AT1G73960.2 are orthologs : 
+Sens 1 : SPAC3A12.05c -> AT1G73960.2 with a evalue = 7.78707e-66
+Sens 2 : AT1G73960.2 -> SPAC3A12.05c with a evalue = 1.71242e-70
+
+###################################################################################
+
+SPAC3A12.06c and AT1G54115.1 are orthologs : 
+Sens 1 : SPAC3A12.06c -> AT1G54115.1 with a evalue = 7.00195e-25
+Sens 2 : AT1G54115.1 -> SPAC3A12.06c with a evalue = 1.01886e-26
+
+###################################################################################
+
+SPAC3A12.07 and AT3G52090.1 are orthologs : 
+Sens 1 : SPAC3A12.07 -> AT3G52090.1 with a evalue = 6.70579e-26
+Sens 2 : AT3G52090.1 -> SPAC3A12.07 with a evalue = 1.04927e-26
+
+###################################################################################
+
+SPAC3A12.09c and AT2G35035.1 are orthologs : 
+Sens 1 : SPAC3A12.09c -> AT2G35035.1 with a evalue = 1.79549e-29
+Sens 2 : AT2G35035.1 -> SPAC3A12.09c with a evalue = 5.3159e-29
+
+###################################################################################
+
+SPAC3A12.12 and AT2G34050.1 are orthologs : 
+Sens 1 : SPAC3A12.12 -> AT2G34050.1 with a evalue = 9.01814e-11
+Sens 2 : AT2G34050.1 -> SPAC3A12.12 with a evalue = 1.25504e-11
+
+###################################################################################
+
+SPAC3A12.14 and AT5G21274.1 are orthologs : 
+Sens 1 : SPAC3A12.14 -> AT5G21274.1 with a evalue = 1.09606e-76
+Sens 2 : AT5G21274.1 -> SPAC3A12.14 with a evalue = 1.80298e-77
+
+###################################################################################
+
+SPAC3A12.15 and AT1G50500.1 are orthologs : 
+Sens 1 : SPAC3A12.15 -> AT1G50500.1 with a evalue = 4.76039e-63
+Sens 2 : AT1G50500.1 -> SPAC3A12.15 with a evalue = 1.10739e-63
+
+###################################################################################
+
+SPAC3A12.16c and AT2G37410.2 are orthologs : 
+Sens 1 : SPAC3A12.16c -> AT2G37410.2 with a evalue = 1.83626e-39
+Sens 2 : AT2G37410.2 -> SPAC3A12.16c with a evalue = 4.74229e-33
+
+###################################################################################
+
+SPAC3A12.17c and AT1G55880.1 are orthologs : 
+Sens 1 : SPAC3A12.17c -> AT1G55880.1 with a evalue = 7.77134e-111
+Sens 2 : AT1G55880.1 -> SPAC3A12.17c with a evalue = 1.73833e-112
+
+###################################################################################
+
+SPAC3A12.18 and AT3G27300.3 are orthologs : 
+Sens 1 : SPAC3A12.18 -> AT3G27300.3 with a evalue = 4.55422e-144
+Sens 2 : AT3G27300.3 -> SPAC3A12.18 with a evalue = 1.87619e-148
+
+###################################################################################
+
+SPAC9.03c and AT1G20960.2 are orthologs : 
+Sens 1 : SPAC9.03c -> AT1G20960.2 with a evalue = 0.0
+Sens 2 : AT1G20960.2 -> SPAC9.03c with a evalue = 0.0
+
+###################################################################################
+
+SPAC9.05 and AT1G35530.2 are orthologs : 
+Sens 1 : SPAC9.05 -> AT1G35530.2 with a evalue = 7.73797e-122
+Sens 2 : AT1G35530.2 -> SPAC9.05 with a evalue = 1.89874e-122
+
+###################################################################################
+
+SPAC9.07c and AT4G39520.1 are orthologs : 
+Sens 1 : SPAC9.07c -> AT4G39520.1 with a evalue = 6.86142e-161
+Sens 2 : AT4G39520.1 -> SPAC9.07c with a evalue = 1.22666e-162
+
+###################################################################################
+
+SPAC9.08c and AT2G38050.1 are orthologs : 
+Sens 1 : SPAC9.08c -> AT2G38050.1 with a evalue = 1.04912e-16
+Sens 2 : AT2G38050.1 -> SPAC9.08c with a evalue = 8.76727e-18
+
+###################################################################################
+
+SPAC9.09 and AT5G17920.2 are orthologs : 
+Sens 1 : SPAC9.09 -> AT5G17920.2 with a evalue = 0.0
+Sens 2 : AT5G17920.2 -> SPAC9.09 with a evalue = 0.0
+
+###################################################################################
+
+SPAC9.12c and AT5G40660.1 are orthologs : 
+Sens 1 : SPAC9.12c -> AT5G40660.1 with a evalue = 3.08868e-15
+Sens 2 : AT5G40660.1 -> SPAC9.12c with a evalue = 1.66777e-14
+
+###################################################################################
+
+SPAC9.13c and AT1G17130.1 are orthologs : 
+Sens 1 : SPAC9.13c -> AT1G17130.1 with a evalue = 2.52422e-56
+Sens 2 : AT1G17130.1 -> SPAC9.13c with a evalue = 1.1106e-59
+
+###################################################################################
+
+SPAC5D6.06c and AT4G18230.1 are orthologs : 
+Sens 1 : SPAC5D6.06c -> AT4G18230.1 with a evalue = 3.99214e-35
+Sens 2 : AT4G18230.1 -> SPAC5D6.06c with a evalue = 1.12349e-35
+
+###################################################################################
+
+SPAC5D6.04 and AT1G71090.1 are orthologs : 
+Sens 1 : SPAC5D6.04 -> AT1G71090.1 with a evalue = 1.29517e-10
+Sens 2 : AT1G71090.1 -> SPAC5D6.04 with a evalue = 8.57455e-11
+
+###################################################################################
+
+SPAC5D6.01 and AT2G39590.1 are orthologs : 
+Sens 1 : SPAC5D6.01 -> AT2G39590.1 with a evalue = 1.24567e-68
+Sens 2 : AT2G39590.1 -> SPAC5D6.01 with a evalue = 2.15941e-69
+
+###################################################################################
+
+SPAC57A7.13 and AT3G54230.1 are orthologs : 
+Sens 1 : SPAC57A7.13 -> AT3G54230.1 with a evalue = 8.23323e-16
+Sens 2 : AT3G54230.1 -> SPAC57A7.13 with a evalue = 3.00189e-16
+
+###################################################################################
+
+SPAC57A7.11 and AT5G01770.1 are orthologs : 
+Sens 1 : SPAC57A7.11 -> AT5G01770.1 with a evalue = 0.0
+Sens 2 : AT5G01770.1 -> SPAC57A7.11 with a evalue = 0.0
+
+###################################################################################
+
+SPAC57A7.10c and AT4G34450.1 are orthologs : 
+Sens 1 : SPAC57A7.10c -> AT4G34450.1 with a evalue = 0.0
+Sens 2 : AT4G34450.1 -> SPAC57A7.10c with a evalue = 0.0
+
+###################################################################################
+
+SPAC57A7.09 and AT1G35630.1 are orthologs : 
+Sens 1 : SPAC57A7.09 -> AT1G35630.1 with a evalue = 6.8197e-16
+Sens 2 : AT1G35630.1 -> SPAC57A7.09 with a evalue = 1.1191e-16
+
+###################################################################################
+
+SPAC57A7.07c and AT3G25900.1 are orthologs : 
+Sens 1 : SPAC57A7.07c -> AT3G25900.1 with a evalue = 1.75489e-17
+Sens 2 : AT3G25900.1 -> SPAC57A7.07c with a evalue = 2.2787e-17
+
+###################################################################################
+
+SPAC57A7.06 and AT4G02400.1 are orthologs : 
+Sens 1 : SPAC57A7.06 -> AT4G02400.1 with a evalue = 1.57193e-24
+Sens 2 : AT4G02400.1 -> SPAC57A7.06 with a evalue = 3.09024e-22
+
+###################################################################################
+
+SPAC57A7.04c and AT1G49760.2 are orthologs : 
+Sens 1 : SPAC57A7.04c -> AT1G49760.2 with a evalue = 1.89612e-137
+Sens 2 : AT1G49760.2 -> SPAC57A7.04c with a evalue = 1.05176e-146
+
+###################################################################################
+
+SPAC57A7.15c and AT2G06845.1 are orthologs : 
+Sens 1 : SPAC57A7.15c -> AT2G06845.1 with a evalue = 0.0637222
+Sens 2 : AT2G06845.1 -> SPAC57A7.15c with a evalue = 0.0241777
+
+###################################################################################
+
+SPAC167.07c and AT3G17205.2 are orthologs : 
+Sens 1 : SPAC167.07c -> AT3G17205.2 with a evalue = 4.20658e-105
+Sens 2 : AT3G17205.2 -> SPAC167.07c with a evalue = 7.79372e-106
+
+###################################################################################
+
+SPAC167.05 and AT1G68300.1 are orthologs : 
+Sens 1 : SPAC167.05 -> AT1G68300.1 with a evalue = 2.78022e-05
+Sens 2 : AT1G68300.1 -> SPAC167.05 with a evalue = 1.17954e-06
+
+###################################################################################
+
+SPAC167.02 and AT5G12210.1 are orthologs : 
+Sens 1 : SPAC167.02 -> AT5G12210.1 with a evalue = 8.52175e-106
+Sens 2 : AT5G12210.1 -> SPAC167.02 with a evalue = 1.70916e-106
+
+###################################################################################
+
+SPAC167.03c and AT5G16780.1 are orthologs : 
+Sens 1 : SPAC167.03c -> AT5G16780.1 with a evalue = 1.19339e-05
+Sens 2 : AT5G16780.1 -> SPAC167.03c with a evalue = 4.24677e-08
+
+###################################################################################
+
+SPAC167.01 and AT5G24360.3 are orthologs : 
+Sens 1 : SPAC167.01 -> AT5G24360.3 with a evalue = 1.70414e-82
+Sens 2 : AT5G24360.3 -> SPAC167.01 with a evalue = 2.75397e-87
+
+###################################################################################
+
+SPAC23H4.18c and AT5G20570.1 are orthologs : 
+Sens 1 : SPAC23H4.18c -> AT5G20570.1 with a evalue = 3.25855e-56
+Sens 2 : AT5G20570.1 -> SPAC23H4.18c with a evalue = 7.26522e-56
+
+###################################################################################
+
+SPAC23H4.17c and AT5G63610.1 are orthologs : 
+Sens 1 : SPAC23H4.17c -> AT5G63610.1 with a evalue = 9.73852e-88
+Sens 2 : AT5G63610.1 -> SPAC23H4.17c with a evalue = 4.69176e-79
+
+###################################################################################
+
+SPAC23H4.15 and AT1G42440.1 are orthologs : 
+Sens 1 : SPAC23H4.15 -> AT1G42440.1 with a evalue = 3.01876e-84
+Sens 2 : AT1G42440.1 -> SPAC23H4.15 with a evalue = 1.13383e-93
+
+###################################################################################
+
+SPAC23H4.14 and AT4G36630.1 are orthologs : 
+Sens 1 : SPAC23H4.14 -> AT4G36630.1 with a evalue = 1.70009e-06
+Sens 2 : AT4G36630.1 -> SPAC23H4.14 with a evalue = 1.66208e-12
+
+###################################################################################
+
+SPAC23H4.21 and AT3G15770.1 are orthologs : 
+Sens 1 : SPAC23H4.21 -> AT3G15770.1 with a evalue = 0.00413758
+Sens 2 : AT3G15770.1 -> SPAC23H4.21 with a evalue = 0.000909349
+
+###################################################################################
+
+SPAC23H4.12 and AT4G37280.1 are orthologs : 
+Sens 1 : SPAC23H4.12 -> AT4G37280.1 with a evalue = 3.27881e-41
+Sens 2 : AT4G37280.1 -> SPAC23H4.12 with a evalue = 7.16864e-43
+
+###################################################################################
+
+SPAC23H4.09 and AT3G51800.1 are orthologs : 
+Sens 1 : SPAC23H4.09 -> AT3G51800.1 with a evalue = 6.31609e-73
+Sens 2 : AT3G51800.1 -> SPAC23H4.09 with a evalue = 8.77445e-73
+
+###################################################################################
+
+SPAC23H4.07c and AT5G05670.1 are orthologs : 
+Sens 1 : SPAC23H4.07c -> AT5G05670.1 with a evalue = 6.75365e-07
+Sens 2 : AT5G05670.1 -> SPAC23H4.07c with a evalue = 1.03871e-07
+
+###################################################################################
+
+SPAC23H4.06 and AT5G16570.1 are orthologs : 
+Sens 1 : SPAC23H4.06 -> AT5G16570.1 with a evalue = 2.81598e-124
+Sens 2 : AT5G16570.1 -> SPAC23H4.06 with a evalue = 8.86011e-125
+
+###################################################################################
+
+SPAC23H4.04 and AT1G51310.1 are orthologs : 
+Sens 1 : SPAC23H4.04 -> AT1G51310.1 with a evalue = 1.99419e-46
+Sens 2 : AT1G51310.1 -> SPAC23H4.04 with a evalue = 3.17304e-47
+
+###################################################################################
+
+SPAC23H4.03c and AT1G09580.1 are orthologs : 
+Sens 1 : SPAC23H4.03c -> AT1G09580.1 with a evalue = 3.64874e-19
+Sens 2 : AT1G09580.1 -> SPAC23H4.03c with a evalue = 6.05762e-20
+
+###################################################################################
+
+SPAP27G11.03 and AT4G05440.1 are orthologs : 
+Sens 1 : SPAP27G11.03 -> AT4G05440.1 with a evalue = 1.59718e-38
+Sens 2 : AT4G05440.1 -> SPAP27G11.03 with a evalue = 2.23581e-45
+
+###################################################################################
+
+SPAP27G11.04c and AT5G24670.1 are orthologs : 
+Sens 1 : SPAP27G11.04c -> AT5G24670.1 with a evalue = 2.40367e-10
+Sens 2 : AT5G24670.1 -> SPAP27G11.04c with a evalue = 5.03344e-11
+
+###################################################################################
+
+SPAP27G11.05c and AT1G08190.1 are orthologs : 
+Sens 1 : SPAP27G11.05c -> AT1G08190.1 with a evalue = 9.82764e-119
+Sens 2 : AT1G08190.1 -> SPAP27G11.05c with a evalue = 1.64864e-120
+
+###################################################################################
+
+SPAP27G11.06c and AT4G35410.2 are orthologs : 
+Sens 1 : SPAP27G11.06c -> AT4G35410.2 with a evalue = 8.97955e-64
+Sens 2 : AT4G35410.2 -> SPAP27G11.06c with a evalue = 1.48622e-64
+
+###################################################################################
+
+SPAP27G11.07c and AT5G26110.1 are orthologs : 
+Sens 1 : SPAP27G11.07c -> AT5G26110.1 with a evalue = 1.09967e-52
+Sens 2 : AT5G26110.1 -> SPAP27G11.07c with a evalue = 1.54595e-55
+
+###################################################################################
+
+SPAP27G11.13c and AT2G20490.1 are orthologs : 
+Sens 1 : SPAP27G11.13c -> AT2G20490.1 with a evalue = 1.52821e-21
+Sens 2 : AT2G20490.1 -> SPAP27G11.13c with a evalue = 2.55313e-22
+
+###################################################################################
+
+SPAP27G11.15 and AT2G30350.2 are orthologs : 
+Sens 1 : SPAP27G11.15 -> AT2G30350.2 with a evalue = 2.13927e-22
+Sens 2 : AT2G30350.2 -> SPAP27G11.15 with a evalue = 2.3107e-22
+
+###################################################################################
+
+SPAC343.01c and AT1G31910.1 are orthologs : 
+Sens 1 : SPAC343.01c -> AT1G31910.1 with a evalue = 1.10514e-33
+Sens 2 : AT1G31910.1 -> SPAC343.01c with a evalue = 1.98554e-24
+
+###################################################################################
+
+SPAC343.02 and AT4G11630.1 are orthologs : 
+Sens 1 : SPAC343.02 -> AT4G11630.1 with a evalue = 6.1419e-06
+Sens 2 : AT4G11630.1 -> SPAC343.02 with a evalue = 0.000127869
+
+###################################################################################
+
+SPAC343.03 and AT3G05870.2 are orthologs : 
+Sens 1 : SPAC343.03 -> AT3G05870.2 with a evalue = 8.59553e-32
+Sens 2 : AT3G05870.2 -> SPAC343.03 with a evalue = 1.32368e-32
+
+###################################################################################
+
+SPAC343.04c and AT5G08560.2 are orthologs : 
+Sens 1 : SPAC343.04c -> AT5G08560.2 with a evalue = 1.66608e-91
+Sens 2 : AT5G08560.2 -> SPAC343.04c with a evalue = 1.02202e-85
+
+###################################################################################
+
+SPAC343.05 and AT1G78900.2 are orthologs : 
+Sens 1 : SPAC343.05 -> AT1G78900.2 with a evalue = 0.0
+Sens 2 : AT1G78900.2 -> SPAC343.05 with a evalue = 0.0
+
+###################################################################################
+
+SPAC343.06c and AT2G04940.1 are orthologs : 
+Sens 1 : SPAC343.06c -> AT2G04940.1 with a evalue = 5.64761e-38
+Sens 2 : AT2G04940.1 -> SPAC343.06c with a evalue = 1.49082e-38
+
+###################################################################################
+
+SPAC343.09 and AT4G22150.1 are orthologs : 
+Sens 1 : SPAC343.09 -> AT4G22150.1 with a evalue = 6.21227e-27
+Sens 2 : AT4G22150.1 -> SPAC343.09 with a evalue = 3.28644e-29
+
+###################################################################################
+
+SPAC343.13 and AT1G48520.1 are orthologs : 
+Sens 1 : SPAC343.13 -> AT1G48520.1 with a evalue = 1.15705e-70
+Sens 2 : AT1G48520.1 -> SPAC343.13 with a evalue = 5.28864e-77
+
+###################################################################################
+
+SPAC343.14c and AT3G07300.2 are orthologs : 
+Sens 1 : SPAC343.14c -> AT3G07300.2 with a evalue = 1.02977e-65
+Sens 2 : AT3G07300.2 -> SPAC343.14c with a evalue = 1.83576e-71
+
+###################################################################################
+
+SPAC343.17c and AT2G20330.1 are orthologs : 
+Sens 1 : SPAC343.17c -> AT2G20330.1 with a evalue = 4.70843e-64
+Sens 2 : AT2G20330.1 -> SPAC343.17c with a evalue = 1.22154e-65
+
+###################################################################################
+
+SPAC343.15 and AT2G27760.1 are orthologs : 
+Sens 1 : SPAC343.15 -> AT2G27760.1 with a evalue = 1.15887e-44
+Sens 2 : AT2G27760.1 -> SPAC343.15 with a evalue = 9.21057e-44
+
+###################################################################################
+
+SPAC343.19 and AT1G26270.1 are orthologs : 
+Sens 1 : SPAC343.19 -> AT1G26270.1 with a evalue = 7.0951e-11
+Sens 2 : AT1G26270.1 -> SPAC343.19 with a evalue = 1.0638e-11
+
+###################################################################################
+
+SPAC824.02 and AT3G27325.1 are orthologs : 
+Sens 1 : SPAC824.02 -> AT3G27325.1 with a evalue = 6.02099e-37
+Sens 2 : AT3G27325.1 -> SPAC824.02 with a evalue = 2.92375e-38
+
+###################################################################################
+
+SPAC824.04 and AT5G14530.1 are orthologs : 
+Sens 1 : SPAC824.04 -> AT5G14530.1 with a evalue = 1.44353e-43
+Sens 2 : AT5G14530.1 -> SPAC824.04 with a evalue = 2.50778e-44
+
+###################################################################################
+
+SPAC824.05 and AT2G38020.1 are orthologs : 
+Sens 1 : SPAC824.05 -> AT2G38020.1 with a evalue = 3.11101e-106
+Sens 2 : AT2G38020.1 -> SPAC824.05 with a evalue = 1.61871e-115
+
+###################################################################################
+
+SPAC824.06 and AT5G03030.1 are orthologs : 
+Sens 1 : SPAC824.06 -> AT5G03030.1 with a evalue = 6.16931e-19
+Sens 2 : AT5G03030.1 -> SPAC824.06 with a evalue = 9.12563e-20
+
+###################################################################################
+
+SPAC824.08 and AT3G04080.1 are orthologs : 
+Sens 1 : SPAC824.08 -> AT3G04080.1 with a evalue = 6.23298e-49
+Sens 2 : AT3G04080.1 -> SPAC824.08 with a evalue = 4.64916e-49
+
+###################################################################################
+
+SPAC824.09c and AT3G17660.1 are orthologs : 
+Sens 1 : SPAC824.09c -> AT3G17660.1 with a evalue = 9.65708e-34
+Sens 2 : AT3G17660.1 -> SPAC824.09c with a evalue = 5.65021e-35
+
+###################################################################################
+
+SPAC664.02c and AT5G43500.2 are orthologs : 
+Sens 1 : SPAC664.02c -> AT5G43500.2 with a evalue = 6.13313e-40
+Sens 2 : AT5G43500.2 -> SPAC664.02c with a evalue = 6.17639e-38
+
+###################################################################################
+
+SPAC664.05 and AT3G49010.3 are orthologs : 
+Sens 1 : SPAC664.05 -> AT3G49010.3 with a evalue = 1.43434e-51
+Sens 2 : AT3G49010.3 -> SPAC664.05 with a evalue = 3.73716e-61
+
+###################################################################################
+
+SPAC664.07c and AT3G05480.3 are orthologs : 
+Sens 1 : SPAC664.07c -> AT3G05480.3 with a evalue = 7.63327e-11
+Sens 2 : AT3G05480.3 -> SPAC664.07c with a evalue = 8.6014e-11
+
+###################################################################################
+
+SPAC664.08c and AT5G61330.1 are orthologs : 
+Sens 1 : SPAC664.08c -> AT5G61330.1 with a evalue = 1.0029e-18
+Sens 2 : AT5G61330.1 -> SPAC664.08c with a evalue = 3.39838e-21
+
+###################################################################################
+
+SPAC664.09 and AT4G29210.1 are orthologs : 
+Sens 1 : SPAC664.09 -> AT4G29210.1 with a evalue = 1.58885e-111
+Sens 2 : AT4G29210.1 -> SPAC664.09 with a evalue = 2.82163e-112
+
+###################################################################################
+
+SPAC664.10 and AT4G27180.1 are orthologs : 
+Sens 1 : SPAC664.10 -> AT4G27180.1 with a evalue = 8.3298e-120
+Sens 2 : AT4G27180.1 -> SPAC664.10 with a evalue = 1.07922e-120
+
+###################################################################################
+
+SPAC664.11 and AT5G09590.1 are orthologs : 
+Sens 1 : SPAC664.11 -> AT5G09590.1 with a evalue = 0.0
+Sens 2 : AT5G09590.1 -> SPAC664.11 with a evalue = 0.0
+
+###################################################################################
+
+SPAC664.12c and AT2G39725.2 are orthologs : 
+Sens 1 : SPAC664.12c -> AT2G39725.2 with a evalue = 4.55958e-11
+Sens 2 : AT2G39725.2 -> SPAC664.12c with a evalue = 8.63964e-12
+
+###################################################################################
+
+SPACUNK12.02c and AT2G41860.1 are orthologs : 
+Sens 1 : SPACUNK12.02c -> AT2G41860.1 with a evalue = 6.83282e-64
+Sens 2 : AT2G41860.1 -> SPACUNK12.02c with a evalue = 4.63324e-62
+
+###################################################################################
+
+SPAC105.01c and AT4G23700.1 are orthologs : 
+Sens 1 : SPAC105.01c -> AT4G23700.1 with a evalue = 1.14297e-90
+Sens 2 : AT4G23700.1 -> SPAC105.01c with a evalue = 1.62522e-71
+
+###################################################################################
+
+SPAC17A5.01 and AT1G03000.1 are orthologs : 
+Sens 1 : SPAC17A5.01 -> AT1G03000.1 with a evalue = 3.00091e-100
+Sens 2 : AT1G03000.1 -> SPAC17A5.01 with a evalue = 3.99534e-112
+
+###################################################################################
+
+SPAC17A5.02c and AT4G31770.1 are orthologs : 
+Sens 1 : SPAC17A5.02c -> AT4G31770.1 with a evalue = 3.62227e-83
+Sens 2 : AT4G31770.1 -> SPAC17A5.02c with a evalue = 7.12936e-80
+
+###################################################################################
+
+SPAC17A5.06 and AT5G41360.1 are orthologs : 
+Sens 1 : SPAC17A5.06 -> AT5G41360.1 with a evalue = 0.0
+Sens 2 : AT5G41360.1 -> SPAC17A5.06 with a evalue = 0.0
+
+###################################################################################
+
+SPAC17A5.07c and AT4G33620.1 are orthologs : 
+Sens 1 : SPAC17A5.07c -> AT4G33620.1 with a evalue = 6.25552e-29
+Sens 2 : AT4G33620.1 -> SPAC17A5.07c with a evalue = 1.60733e-29
+
+###################################################################################
+
+SPAC17A5.09c and AT5G52200.2 are orthologs : 
+Sens 1 : SPAC17A5.09c -> AT5G52200.2 with a evalue = 0.00187949
+Sens 2 : AT5G52200.2 -> SPAC17A5.09c with a evalue = 0.000189356
+
+###################################################################################
+
+SPAC17A5.11 and AT5G02820.1 are orthologs : 
+Sens 1 : SPAC17A5.11 -> AT5G02820.1 with a evalue = 9.84521e-34
+Sens 2 : AT5G02820.1 -> SPAC17A5.11 with a evalue = 4.13866e-37
+
+###################################################################################
+
+SPAC17A5.12 and AT1G21660.1 are orthologs : 
+Sens 1 : SPAC17A5.12 -> AT1G21660.1 with a evalue = 2.96297e-22
+Sens 2 : AT1G21660.1 -> SPAC17A5.12 with a evalue = 2.3659e-23
+
+###################################################################################
+
+SPAC17A5.13 and AT3G07270.1 are orthologs : 
+Sens 1 : SPAC17A5.13 -> AT3G07270.1 with a evalue = 1.69927e-30
+Sens 2 : AT3G07270.1 -> SPAC17A5.13 with a evalue = 7.29636e-31
+
+###################################################################################
+
+SPAC17A5.15c and AT5G26710.1 are orthologs : 
+Sens 1 : SPAC17A5.15c -> AT5G26710.1 with a evalue = 0.0
+Sens 2 : AT5G26710.1 -> SPAC17A5.15c with a evalue = 0.0
+
+###################################################################################
+
+SPAC1610.02c and AT2G42710.1 are orthologs : 
+Sens 1 : SPAC1610.02c -> AT2G42710.1 with a evalue = 1.66221e-17
+Sens 2 : AT2G42710.1 -> SPAC1610.02c with a evalue = 1.20035e-05
+
+###################################################################################
+
+SPAC1002.03c and AT5G63840.1 are orthologs : 
+Sens 1 : SPAC1002.03c -> AT5G63840.1 with a evalue = 0.0
+Sens 2 : AT5G63840.1 -> SPAC1002.03c with a evalue = 0.0
+
+###################################################################################
+
+SPAC1002.04c and AT1G20000.1 are orthologs : 
+Sens 1 : SPAC1002.04c -> AT1G20000.1 with a evalue = 6.56057e-19
+Sens 2 : AT1G20000.1 -> SPAC1002.04c with a evalue = 4.56339e-20
+
+###################################################################################
+
+SPAC1002.05c and AT4G20400.2 are orthologs : 
+Sens 1 : SPAC1002.05c -> AT4G20400.2 with a evalue = 1.67571e-72
+Sens 2 : AT4G20400.2 -> SPAC1002.05c with a evalue = 4.02015e-73
+
+###################################################################################
+
+SPAC1002.07c and AT2G39020.1 are orthologs : 
+Sens 1 : SPAC1002.07c -> AT2G39020.1 with a evalue = 4.0775e-27
+Sens 2 : AT2G39020.1 -> SPAC1002.07c with a evalue = 9.46215e-28
+
+###################################################################################
+
+SPAC1002.09c and AT1G48030.2 are orthologs : 
+Sens 1 : SPAC1002.09c -> AT1G48030.2 with a evalue = 0.0
+Sens 2 : AT1G48030.2 -> SPAC1002.09c with a evalue = 0.0
+
+###################################################################################
+
+SPAC1002.10c and AT5G65490.1 are orthologs : 
+Sens 1 : SPAC1002.10c -> AT5G65490.1 with a evalue = 1.89104e-29
+Sens 2 : AT5G65490.1 -> SPAC1002.10c with a evalue = 8.40123e-28
+
+###################################################################################
+
+SPAC1002.11 and AT5G19130.2 are orthologs : 
+Sens 1 : SPAC1002.11 -> AT5G19130.2 with a evalue = 2.67363e-25
+Sens 2 : AT5G19130.2 -> SPAC1002.11 with a evalue = 4.37197e-23
+
+###################################################################################
+
+SPAC1002.12c and AT1G79440.1 are orthologs : 
+Sens 1 : SPAC1002.12c -> AT1G79440.1 with a evalue = 6.81401e-144
+Sens 2 : AT1G79440.1 -> SPAC1002.12c with a evalue = 2.33699e-158
+
+###################################################################################
+
+SPAC1002.15c and AT3G21350.1 are orthologs : 
+Sens 1 : SPAC1002.15c -> AT3G21350.1 with a evalue = 5.01267e-21
+Sens 2 : AT3G21350.1 -> SPAC1002.15c with a evalue = 9.84899e-22
+
+###################################################################################
+
+SPAC1002.14 and AT1G32340.1 are orthologs : 
+Sens 1 : SPAC1002.14 -> AT1G32340.1 with a evalue = 1.33276e-31
+Sens 2 : AT1G32340.1 -> SPAC1002.14 with a evalue = 3.91182e-35
+
+###################################################################################
+
+SPAC1002.17c and AT3G53900.1 are orthologs : 
+Sens 1 : SPAC1002.17c -> AT3G53900.1 with a evalue = 6.39578e-34
+Sens 2 : AT3G53900.1 -> SPAC1002.17c with a evalue = 1.19649e-34
+
+###################################################################################
+
+SPAC1399.01c and AT5G62890.3 are orthologs : 
+Sens 1 : SPAC1399.01c -> AT5G62890.3 with a evalue = 8.53234e-08
+Sens 2 : AT5G62890.3 -> SPAC1399.01c with a evalue = 1.22422e-14
+
+###################################################################################
+
+SPAP11E10.01 and AT5G52810.1 are orthologs : 
+Sens 1 : SPAP11E10.01 -> AT5G52810.1 with a evalue = 3.16773e-43
+Sens 2 : AT5G52810.1 -> SPAP11E10.01 with a evalue = 5.8774e-46
+
+###################################################################################
+
+SPAPB1A10.04c and AT3G59380.1 are orthologs : 
+Sens 1 : SPAPB1A10.04c -> AT3G59380.1 with a evalue = 1.50555e-46
+Sens 2 : AT3G59380.1 -> SPAPB1A10.04c with a evalue = 2.271e-45
+
+###################################################################################
+
+SPAPB1A10.07c and AT3G06170.1 are orthologs : 
+Sens 1 : SPAPB1A10.07c -> AT3G06170.1 with a evalue = 2.10717e-33
+Sens 2 : AT3G06170.1 -> SPAPB1A10.07c with a evalue = 1.40612e-27
+
+###################################################################################
+
+SPAPB1A10.09 and AT1G14690.2 are orthologs : 
+Sens 1 : SPAPB1A10.09 -> AT1G14690.2 with a evalue = 0.019745
+Sens 2 : AT1G14690.2 -> SPAPB1A10.09 with a evalue = 9.84795e-09
+
+###################################################################################
+
+SPAPB1A10.11c and AT5G64050.1 are orthologs : 
+Sens 1 : SPAPB1A10.11c -> AT5G64050.1 with a evalue = 9.58388e-78
+Sens 2 : AT5G64050.1 -> SPAPB1A10.11c with a evalue = 1.98332e-78
+
+###################################################################################
+
+SPAPB1A10.12c and AT3G47930.2 are orthologs : 
+Sens 1 : SPAPB1A10.12c -> AT3G47930.2 with a evalue = 8.9529e-25
+Sens 2 : AT3G47930.2 -> SPAPB1A10.12c with a evalue = 2.01139e-25
+
+###################################################################################
+
+SPAPB1A10.15 and AT1G01020.2 are orthologs : 
+Sens 1 : SPAPB1A10.15 -> AT1G01020.2 with a evalue = 4.305e-17
+Sens 2 : AT1G01020.2 -> SPAPB1A10.15 with a evalue = 8.69727e-18
+
+###################################################################################
+
+SPAC140.01 and AT3G27380.2 are orthologs : 
+Sens 1 : SPAC140.01 -> AT3G27380.2 with a evalue = 1.99293e-118
+Sens 2 : AT3G27380.2 -> SPAC140.01 with a evalue = 3.33791e-119
+
+###################################################################################
+
+SPAC110.02 and AT5G47690.1 are orthologs : 
+Sens 1 : SPAC110.02 -> AT5G47690.1 with a evalue = 5.20245e-34
+Sens 2 : AT5G47690.1 -> SPAC110.02 with a evalue = 2.45618e-36
+
+###################################################################################
+
+SPAC110.03 and AT4G35020.3 are orthologs : 
+Sens 1 : SPAC110.03 -> AT4G35020.3 with a evalue = 3.69246e-73
+Sens 2 : AT4G35020.3 -> SPAC110.03 with a evalue = 6.29542e-74
+
+###################################################################################
+
+SPAC110.04c and AT1G11660.1 are orthologs : 
+Sens 1 : SPAC110.04c -> AT1G11660.1 with a evalue = 5.03178e-151
+Sens 2 : AT1G11660.1 -> SPAC110.04c with a evalue = 1.03534e-158
+
+###################################################################################
+
+SPAP14E8.03 and AT5G50440.1 are orthologs : 
+Sens 1 : SPAP14E8.03 -> AT5G50440.1 with a evalue = 2.18935e-09
+Sens 2 : AT5G50440.1 -> SPAP14E8.03 with a evalue = 3.37152e-10
+
+###################################################################################
+
+SPAP14E8.04 and AT5G51740.1 are orthologs : 
+Sens 1 : SPAP14E8.04 -> AT5G51740.1 with a evalue = 1.56659e-26
+Sens 2 : AT5G51740.1 -> SPAP14E8.04 with a evalue = 3.487e-31
+
+###################################################################################
+
+SPAP14E8.05c and AT2G26240.1 are orthologs : 
+Sens 1 : SPAP14E8.05c -> AT2G26240.1 with a evalue = 3.4454e-06
+Sens 2 : AT2G26240.1 -> SPAP14E8.05c with a evalue = 6.11648e-07
+
+###################################################################################
+
+SPAC3H1.01c and AT5G16690.1 are orthologs : 
+Sens 1 : SPAC3H1.01c -> AT5G16690.1 with a evalue = 0.0458235
+Sens 2 : AT5G16690.1 -> SPAC3H1.01c with a evalue = 0.000265172
+
+###################################################################################
+
+SPAC3H1.03 and AT1G29220.1 are orthologs : 
+Sens 1 : SPAC3H1.03 -> AT1G29220.1 with a evalue = 0.0830771
+Sens 2 : AT1G29220.1 -> SPAC3H1.03 with a evalue = 1.55509e-08
+
+###################################################################################
+
+SPAC3H1.04c and AT5G52060.1 are orthologs : 
+Sens 1 : SPAC3H1.04c -> AT5G52060.1 with a evalue = 0.0932618
+Sens 2 : AT5G52060.1 -> SPAC3H1.04c with a evalue = 0.0506729
+
+###################################################################################
+
+SPAC3H1.05 and AT4G01320.1 are orthologs : 
+Sens 1 : SPAC3H1.05 -> AT4G01320.1 with a evalue = 1.81768e-91
+Sens 2 : AT4G01320.1 -> SPAC3H1.05 with a evalue = 1.92055e-96
+
+###################################################################################
+
+SPAC3H1.09c and AT3G11900.1 are orthologs : 
+Sens 1 : SPAC3H1.09c -> AT3G11900.1 with a evalue = 1.01301e-26
+Sens 2 : AT3G11900.1 -> SPAC3H1.09c with a evalue = 1.98527e-33
+
+###################################################################################
+
+SPAC3H1.10 and AT1G03980.1 are orthologs : 
+Sens 1 : SPAC3H1.10 -> AT1G03980.1 with a evalue = 1.3334e-70
+Sens 2 : AT1G03980.1 -> SPAC3H1.10 with a evalue = 4.54613e-71
+
+###################################################################################
+
+SPAC3H1.13 and AT5G08160.1 are orthologs : 
+Sens 1 : SPAC3H1.13 -> AT5G08160.1 with a evalue = 7.68753e-39
+Sens 2 : AT5G08160.1 -> SPAC3H1.13 with a evalue = 9.45294e-40
+
+###################################################################################
+
+SPAC9G1.03c and AT1G77940.1 are orthologs : 
+Sens 1 : SPAC9G1.03c -> AT1G77940.1 with a evalue = 5.01376e-50
+Sens 2 : AT1G77940.1 -> SPAC9G1.03c with a evalue = 8.55013e-51
+
+###################################################################################
+
+SPAC9G1.05 and AT3G18060.1 are orthologs : 
+Sens 1 : SPAC9G1.05 -> AT3G18060.1 with a evalue = 8.35078e-96
+Sens 2 : AT3G18060.1 -> SPAC9G1.05 with a evalue = 1.50912e-102
+
+###################################################################################
+
+SPAC9G1.15c and AT4G09550.1 are orthologs : 
+Sens 1 : SPAC9G1.15c -> AT4G09550.1 with a evalue = 1.22931e-10
+Sens 2 : AT4G09550.1 -> SPAC9G1.15c with a evalue = 2.27494e-11
+
+###################################################################################
+
+SPAC9G1.11c and AT5G51200.1 are orthologs : 
+Sens 1 : SPAC9G1.11c -> AT5G51200.1 with a evalue = 0.0612347
+Sens 2 : AT5G51200.1 -> SPAC9G1.11c with a evalue = 0.0487475
+
+###################################################################################
+
+SPAC9G1.12 and AT5G14600.1 are orthologs : 
+Sens 1 : SPAC9G1.12 -> AT5G14600.1 with a evalue = 1.64313e-53
+Sens 2 : AT5G14600.1 -> SPAC9G1.12 with a evalue = 1.2237e-47
+
+###################################################################################
+
+SPAC9G1.13c and AT2G47210.1 are orthologs : 
+Sens 1 : SPAC9G1.13c -> AT2G47210.1 with a evalue = 3.38248e-39
+Sens 2 : AT2G47210.1 -> SPAC9G1.13c with a evalue = 1.92009e-40
+
+###################################################################################
+
+SPAC17H9.04c and AT5G25490.1 are orthologs : 
+Sens 1 : SPAC17H9.04c -> AT5G25490.1 with a evalue = 1.01667e-10
+Sens 2 : AT5G25490.1 -> SPAC17H9.04c with a evalue = 1.44652e-10
+
+###################################################################################
+
+SPAC17H9.05 and AT3G22660.1 are orthologs : 
+Sens 1 : SPAC17H9.05 -> AT3G22660.1 with a evalue = 3.76385e-25
+Sens 2 : AT3G22660.1 -> SPAC17H9.05 with a evalue = 8.39134e-30
+
+###################################################################################
+
+SPAC17H9.07 and AT3G49100.1 are orthologs : 
+Sens 1 : SPAC17H9.07 -> AT3G49100.1 with a evalue = 4.09033e-05
+Sens 2 : AT3G49100.1 -> SPAC17H9.07 with a evalue = 3.68085e-06
+
+###################################################################################
+
+SPAC17H9.08 and AT4G26180.1 are orthologs : 
+Sens 1 : SPAC17H9.08 -> AT4G26180.1 with a evalue = 6.87362e-53
+Sens 2 : AT4G26180.1 -> SPAC17H9.08 with a evalue = 1.3703e-53
+
+###################################################################################
+
+SPAC17H9.10c and AT4G21100.1 are orthologs : 
+Sens 1 : SPAC17H9.10c -> AT4G21100.1 with a evalue = 1.43493e-129
+Sens 2 : AT4G21100.1 -> SPAC17H9.10c with a evalue = 1.78979e-129
+
+###################################################################################
+
+SPAC17H9.14c and AT2G47470.1 are orthologs : 
+Sens 1 : SPAC17H9.14c -> AT2G47470.1 with a evalue = 1.09368e-68
+Sens 2 : AT2G47470.1 -> SPAC17H9.14c with a evalue = 1.48251e-89
+
+###################################################################################
+
+SPAC17H9.16 and AT5G43970.1 are orthologs : 
+Sens 1 : SPAC17H9.16 -> AT5G43970.1 with a evalue = 0.00150007
+Sens 2 : AT5G43970.1 -> SPAC17H9.16 with a evalue = 0.000147086
+
+###################################################################################
+
+SPAC17H9.19c and AT3G27640.1 are orthologs : 
+Sens 1 : SPAC17H9.19c -> AT3G27640.1 with a evalue = 1.45315e-33
+Sens 2 : AT3G27640.1 -> SPAC17H9.19c with a evalue = 3.9169e-31
+
+###################################################################################
+
+SPAC17H9.20 and AT2G47980.1 are orthologs : 
+Sens 1 : SPAC17H9.20 -> AT2G47980.1 with a evalue = 1.0343e-33
+Sens 2 : AT2G47980.1 -> SPAC17H9.20 with a evalue = 4.52336e-35
+
+###################################################################################
+
+SPAC607.03c and AT5G20160.1 are orthologs : 
+Sens 1 : SPAC607.03c -> AT5G20160.1 with a evalue = 4.47956e-58
+Sens 2 : AT5G20160.1 -> SPAC607.03c with a evalue = 1.04377e-57
+
+###################################################################################
+
+SPAC607.04 and AT5G07370.4 are orthologs : 
+Sens 1 : SPAC607.04 -> AT5G07370.4 with a evalue = 2.99197e-16
+Sens 2 : AT5G07370.4 -> SPAC607.04 with a evalue = 5.27062e-17
+
+###################################################################################
+
+SPAC607.05 and AT4G19006.1 are orthologs : 
+Sens 1 : SPAC607.05 -> AT4G19006.1 with a evalue = 1.20933e-49
+Sens 2 : AT4G19006.1 -> SPAC607.05 with a evalue = 5.8143e-52
+
+###################################################################################
+
+SPAC732.02c and AT1G07110.1 are orthologs : 
+Sens 1 : SPAC732.02c -> AT1G07110.1 with a evalue = 2.30442e-80
+Sens 2 : AT1G07110.1 -> SPAC732.02c with a evalue = 1.32942e-85
+
+###################################################################################
+
+SPAC3C7.03c and AT2G19490.1 are orthologs : 
+Sens 1 : SPAC3C7.03c -> AT2G19490.1 with a evalue = 0.000772752
+Sens 2 : AT2G19490.1 -> SPAC3C7.03c with a evalue = 0.000211183
+
+###################################################################################
+
+SPAC3C7.06c and AT4G19110.2 are orthologs : 
+Sens 1 : SPAC3C7.06c -> AT4G19110.2 with a evalue = 1.08869e-70
+Sens 2 : AT4G19110.2 -> SPAC3C7.06c with a evalue = 1.01849e-71
+
+###################################################################################
+
+SPAC3C7.07c and AT5G05700.1 are orthologs : 
+Sens 1 : SPAC3C7.07c -> AT5G05700.1 with a evalue = 1.75764e-31
+Sens 2 : AT5G05700.1 -> SPAC3C7.07c with a evalue = 3.58285e-32
+
+###################################################################################
+
+SPAC3C7.11c and AT5G07340.2 are orthologs : 
+Sens 1 : SPAC3C7.11c -> AT5G07340.2 with a evalue = 2.10112e-100
+Sens 2 : AT5G07340.2 -> SPAC3C7.11c with a evalue = 3.14203e-85
+
+###################################################################################
+
+SPAC3C7.14c and AT4G27270.1 are orthologs : 
+Sens 1 : SPAC3C7.14c -> AT4G27270.1 with a evalue = 1.59638e-44
+Sens 2 : AT4G27270.1 -> SPAC3C7.14c with a evalue = 1.1379e-49
+
+###################################################################################
+
+SPAC25A8.03c and AT1G04900.1 are orthologs : 
+Sens 1 : SPAC25A8.03c -> AT1G04900.1 with a evalue = 1.30921e-11
+Sens 2 : AT1G04900.1 -> SPAC25A8.03c with a evalue = 2.04292e-12
+
+###################################################################################
+
+SPAC631.01c and AT1G71790.1 are orthologs : 
+Sens 1 : SPAC631.01c -> AT1G71790.1 with a evalue = 1.11541e-64
+Sens 2 : AT1G71790.1 -> SPAC631.01c with a evalue = 1.7595e-65
+
+###################################################################################
+
+SPAC20H4.01 and AT1G15420.1 are orthologs : 
+Sens 1 : SPAC20H4.01 -> AT1G15420.1 with a evalue = 0.000244115
+Sens 2 : AT1G15420.1 -> SPAC20H4.01 with a evalue = 0.000411941
+
+###################################################################################
+
+SPAC20H4.03c and AT2G38560.1 are orthologs : 
+Sens 1 : SPAC20H4.03c -> AT2G38560.1 with a evalue = 1.98907e-34
+Sens 2 : AT2G38560.1 -> SPAC20H4.03c with a evalue = 3.66138e-35
+
+###################################################################################
+
+SPAC20H4.05c and AT5G53850.1 are orthologs : 
+Sens 1 : SPAC20H4.05c -> AT5G53850.1 with a evalue = 1.00979e-37
+Sens 2 : AT5G53850.1 -> SPAC20H4.05c with a evalue = 3.76618e-49
+
+###################################################################################
+
+SPAC20H4.06c and AT5G23080.2 are orthologs : 
+Sens 1 : SPAC20H4.06c -> AT5G23080.2 with a evalue = 1.35285e-25
+Sens 2 : AT5G23080.2 -> SPAC20H4.06c with a evalue = 6.10093e-24
+
+###################################################################################
+
+SPAC20H4.07 and AT5G57450.2 are orthologs : 
+Sens 1 : SPAC20H4.07 -> AT5G57450.2 with a evalue = 1.93075e-29
+Sens 2 : AT5G57450.2 -> SPAC20H4.07 with a evalue = 1.44103e-22
+
+###################################################################################
+
+SPAC20H4.10 and AT5G15400.1 are orthologs : 
+Sens 1 : SPAC20H4.10 -> AT5G15400.1 with a evalue = 3.46622e-93
+Sens 2 : AT5G15400.1 -> SPAC20H4.10 with a evalue = 2.4243e-87
+
+###################################################################################
+
+SPAC23C11.03 and AT5G66540.1 are orthologs : 
+Sens 1 : SPAC23C11.03 -> AT5G66540.1 with a evalue = 3.73085e-35
+Sens 2 : AT5G66540.1 -> SPAC23C11.03 with a evalue = 8.51119e-36
+
+###################################################################################
+
+SPAC23C11.04c and AT3G14890.2 are orthologs : 
+Sens 1 : SPAC23C11.04c -> AT3G14890.2 with a evalue = 2.77189e-26
+Sens 2 : AT3G14890.2 -> SPAC23C11.04c with a evalue = 2.09884e-25
+
+###################################################################################
+
+SPAC23C11.05 and AT5G09650.1 are orthologs : 
+Sens 1 : SPAC23C11.05 -> AT5G09650.1 with a evalue = 6.35126e-69
+Sens 2 : AT5G09650.1 -> SPAC23C11.05 with a evalue = 1.35117e-69
+
+###################################################################################
+
+SPAC23C11.08 and AT4G14540.1 are orthologs : 
+Sens 1 : SPAC23C11.08 -> AT4G14540.1 with a evalue = 1.26593e-41
+Sens 2 : AT4G14540.1 -> SPAC23C11.08 with a evalue = 2.9082e-42
+
+###################################################################################
+
+SPAC23C11.09 and AT1G50200.1 are orthologs : 
+Sens 1 : SPAC23C11.09 -> AT1G50200.1 with a evalue = 0.0
+Sens 2 : AT1G50200.1 -> SPAC23C11.09 with a evalue = 0.0
+
+###################################################################################
+
+SPAC23C11.11 and AT3G50000.1 are orthologs : 
+Sens 1 : SPAC23C11.11 -> AT3G50000.1 with a evalue = 3.30867e-159
+Sens 2 : AT3G50000.1 -> SPAC23C11.11 with a evalue = 8.39058e-158
+
